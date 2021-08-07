@@ -5,6 +5,8 @@
 
 ## 安装顺序：
 
+在开始之前先将总览文件放到正确的文件夹地址`%UserProfile%\Documents\EVE\Overview`，Windows菜单直接粘贴就可以。
+
 1）点击总览左上角的三条横杠，点击`Open Overview Settings`。
 
 ![image](https://user-images.githubusercontent.com/17568930/128548592-3d32a201-947e-470e-b6bc-b461980511f1.png)
