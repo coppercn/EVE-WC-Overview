@@ -7,23 +7,23 @@
 
 在开始之前先将所有总览文件放到正确的地址：`%UserProfile%\Documents\EVE（Windows菜单直接粘贴就可以）`下的`Overview`文件夹，如果没有就新建一个文件夹。
 
-1）点击总览左上角的三条横杠，点击`Open Overview Settings`。
+1. 点击总览左上角的三条横杠，点击`Open Overview Settings`。
 
-![image](https://user-images.githubusercontent.com/17568930/128548592-3d32a201-947e-470e-b6bc-b461980511f1.png)
+    ![image](https://user-images.githubusercontent.com/17568930/128548592-3d32a201-947e-470e-b6bc-b461980511f1.png)
 
-2）点击`Misc`栏，随后点击`Reset All Overview Settings`，重置现有的总览。
+2. 点击`Misc`栏，随后点击`Reset All Overview Settings`，重置现有的总览。
 
-![image](https://user-images.githubusercontent.com/17568930/128548654-342eff1f-7340-4e3d-82f2-b5439bd9e3b6.png)
+    ![image](https://user-images.githubusercontent.com/17568930/128548654-342eff1f-7340-4e3d-82f2-b5439bd9e3b6.png)
 
-3）随后点击`Import Overview Settings`，依次点击加载凛冬总览核心包以及五个预设包。***(从这步开始每一次加载都必须选择`Check All`）！***
+3. 随后点击`Import Overview Settings`，依次点击加载凛冬总览核心包以及五个预设包。***(从这步开始每一次加载都必须选择`Check All`）！***
 
-![image](https://user-images.githubusercontent.com/17568930/128549328-8df12da4-819a-43f0-b079-eb1af94c6371.png)
+   ![image](https://user-images.githubusercontent.com/17568930/128549328-8df12da4-819a-43f0-b079-eb1af94c6371.png)
 
-4）选择一个你喜欢的框架加载，并且加载一个适合的`D-Scan`预设。
+4. 选择一个你喜欢的框架加载，并且加载一个适合的`D-Scan`预设。
 
-![image](https://user-images.githubusercontent.com/17568930/128549625-c40ce60a-8075-4442-bf66-8a558555775f.png)
+    ![image](https://user-images.githubusercontent.com/17568930/128549625-c40ce60a-8075-4442-bf66-8a558555775f.png)
 
-5）安装完成以后再次打开`Overview Settings`，点击`Ships`栏，再把设置界面关掉就行了。最后建议重新登陆一下角色以保证总览正确刷新。
+5. 安装完成以后再次打开`Overview Settings`，点击`Ships`栏，再把设置界面关掉就行了。最后建议重新登陆一下角色以保证总览正确刷新。
 
 ## 使用说明：详见[WinterCo.总览](https://forums.winterco.org/t/topic/3071)
 
