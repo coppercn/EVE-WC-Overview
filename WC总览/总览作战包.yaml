@@ -560,6 +560,7 @@ presets:
           - 4088
           - 4093
           - 4107
+          - 4137
   - - <color=0xFFFF6666>✯ 作战：非舰队成员</color>
     - - - alwaysShownStates
         - []
@@ -772,6 +773,7 @@ presets:
           - 1201
           - 1202
           - 1246
+          - 1247
           - 1249
           - 1250
           - 1273
@@ -805,6 +807,7 @@ presets:
           - 4088
           - 4093
           - 4107
+          - 4137
   - - <color=0xFFFF6666>✯ --- 作战：基本（+敌对 +NPC）</color>
     - - - alwaysShownStates
         - []
@@ -1247,6 +1250,7 @@ presets:
           - 4088
           - 4093
           - 4107
+          - 4137
   - - <color=0xFFFF6666>✯ --- 作战：基本（+敌对 -NPC）</color>
     - - - alwaysShownStates
         - []
@@ -1320,6 +1324,7 @@ presets:
           - 1201
           - 1202
           - 1246
+          - 1247
           - 1249
           - 1250
           - 1273
@@ -1351,6 +1356,7 @@ presets:
           - 4088
           - 4093
           - 4107
+          - 4137
   - - <color=0xFFFF6666>✯ 作战：建筑</color>
     - - - alwaysShownStates
         - []
@@ -1555,6 +1561,7 @@ presets:
           - 4081
           - 4093
           - 4107
+          - 4137
   - - <color=0xFFFF6666>✯ 作战：作战对象</color>
     - - - alwaysShownStates
         - - 13
@@ -1810,24 +1817,7 @@ presets:
           - 4088
           - 4093
           - 4107
-  - - <color=0xFFFF6666>✯ 作战：移动反诱导</color>
-    - - - alwaysShownStates
-        - []
-      - - filteredStates
-        - - 11
-          - 12
-          - 14
-          - 15
-          - 16
-          - 21
-          - 49
-      - - groups
-        - - 492
-          - 1149
-          - 1249
-          - 1274
-          - 1297
-          - 1312
+          - 4137
   - - <color=0xFFFF6666>✯ 作战：可部署装置</color>
     - - - alwaysShownStates
         - []
@@ -1867,6 +1857,7 @@ presets:
           - 4088
           - 4093
           - 4107
+          - 4137
   - - <color=0xFFFF6666>✯ 作战：隐秘行动</color>
     - - - alwaysShownStates
         - []
@@ -2391,6 +2382,7 @@ presets:
           - 4088
           - 4093
           - 4107
+          - 4137
   - - <color=0xFFFF6666>✯ = 作战：只有舰船</color>
     - - - alwaysShownStates
         - []
@@ -2543,6 +2535,7 @@ presets:
           - 1201
           - 1202
           - 1246
+          - 1247
           - 1249
           - 1250
           - 1273
@@ -2574,6 +2567,7 @@ presets:
           - 4088
           - 4093
           - 4107
+          - 4137
 shipLabelOrder:
   - ship type
   - alliance

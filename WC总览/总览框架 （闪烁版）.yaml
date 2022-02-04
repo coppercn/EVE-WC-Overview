@@ -304,5 +304,5 @@ tabSetup:
       - - name
         - <color=0xFFFF0000><b><fontsize=13> ♠ 特殊 </fontsize></b></color>
       - - overview
-        - <color=0xFFFF6666>✯ 作战：移动反诱导</color>
+        - <color=0xFFFFFF66>✜ 目标：移动反诱导 (!)</color>
 userSettings: []

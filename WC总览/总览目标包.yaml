@@ -114,6 +114,24 @@ overviewColumns:
   - TYPE
   - VELOCITY
 presets:
+  - - <color=0xFFFFFF66>✜ 目标：移动反诱导 (!)</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+          - 49
+      - - groups
+        - - 492
+          - 1149
+          - 1249
+          - 1274
+          - 1297
+          - 1312
   - - <color=0xFFFFFF66>✜ 目标：指挥舰/T3C</color>
     - - - alwaysShownStates
         - []
