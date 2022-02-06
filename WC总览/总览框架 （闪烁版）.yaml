@@ -253,7 +253,7 @@ tabSetup:
         - <color=0xFFFFCCFF>✈ 航行（-舰船 +空间站）</color>
   - - 1
     - - - bracket
-        - ⌘ 图标：作战/目标/友军（+无人机）
+        - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
       - - color
         - null
       - - name
@@ -262,7 +262,7 @@ tabSetup:
         - <color=0xFFFF6666>✯ --- 作战：基本（+敌对 +NPC）</color>
   - - 2
     - - - bracket
-        - ⌘ 图标：作战/目标/友军（+无人机）
+        - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
       - - color
         - null
       - - name
@@ -280,7 +280,7 @@ tabSetup:
         - <color=0xFF33FFFF>☭ 生产：打捞/残骸</color>
   - - 4
     - - - bracket
-        - ⌘ 图标：作战/目标/友军（+无人机）
+        - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
       - - color
         - null
       - - name
@@ -298,7 +298,7 @@ tabSetup:
         - <color=0xFF66FF66>➲ 额外：跑蛋 (!)</color>
   - - 6
     - - - bracket
-        - ⌘ 图标：作战/目标/友军（+无人机）
+        - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
       - - color
         - null
       - - name
