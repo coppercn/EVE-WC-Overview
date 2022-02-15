@@ -17,9 +17,9 @@ backgroundOrder:
 - 53
 - 10
 - 20
-- 21
-- 17
 - 48
+- 17
+- 21
 - 66
 backgroundStates:
 - 9
@@ -186,9 +186,15 @@ shipLabels:
     - - type
       - ship type
 stateBlinks:
+- - background_10
+  - true
 - - background_13
   - true
+- - background_17
+  - true
 - - background_44
+  - true
+- - background_48
   - true
 - - background_50
   - true
