@@ -3,6 +3,8 @@
 本总览是基于[Z-S总览](https://imperium.news/z-s-overview-pack/)、[E-Uni总览](https://wiki.eveuniversity.org/Installing_the_EVE_University_Overview)
 和[WinterCo.总览](https://forums.winterco.org/t/topic/3071)改进而成，根据自己的使用体验进行了特殊调整。
 
+将来此库只上传重大更新，最新总览请查阅游戏内频道`凛冬联盟总览`。
+
 ## 安装顺序：
 
 在开始之前先将所有总览文件放到正确的地址：`%UserProfile%\Documents\EVE（Windows菜单直接粘贴就可以）`下的`Overview`文件夹，如果没有就新建一个文件夹。
