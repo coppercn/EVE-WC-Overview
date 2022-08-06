@@ -801,6 +801,54 @@ shipLabels:
         - 1
       - - type
         - ship type
+stateBlinks:
+  - - background_13
+    - false
+  - - background_44
+    - false
+  - - flag_13
+    - true
+  - - flag_44
+    - true
+  - - flag_50
+    - false
+  - - flag_51
+    - true
+  - - flag_52
+    - true
+  - - flag_9
+    - true
+stateColorsNameList:
+  - - background_10
+    - white
+  - - background_12
+    - darkBlue
+  - - background_16
+    - darkBlue
+  - - background_18
+    - red
+  - - background_20
+    - white
+  - - background_21
+    - white
+  - - background_44
+    - red
+  - - background_45
+    - blue
+  - - background_48
+    - white
+  - - background_49
+    - white
+  - - background_50
+    - orange
+  - - background_51
+    - orange
+  - - background_52
+    - orange
+  - - background_9
+    - orange
+  - - flag_48
+    - white
 tabSetup:
   - - 0
     - - - bracket

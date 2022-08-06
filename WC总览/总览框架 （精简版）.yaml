@@ -1,302 +1,302 @@
 backgroundOrder:
-- 13
-- 44
-- 52
-- 11
-- 12
-- 14
-- 15
-- 16
-- 45
-- 49
-- 19
-- 18
-- 9
-- 51
-- 50
-- 53
-- 10
-- 20
-- 21
-- 17
-- 48
-- 66
+  - 13
+  - 44
+  - 52
+  - 11
+  - 12
+  - 14
+  - 15
+  - 16
+  - 45
+  - 49
+  - 19
+  - 18
+  - 9
+  - 51
+  - 50
+  - 53
+  - 10
+  - 20
+  - 21
+  - 17
+  - 48
+  - 66
 backgroundStates:
-- 9
-- 10
-- 11
-- 12
-- 13
-- 14
-- 15
-- 16
-- 17
-- 18
-- 19
-- 20
-- 21
-- 44
-- 45
-- 48
-- 49
-- 50
-- 51
-- 52
-- 53
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 44
+  - 45
+  - 48
+  - 49
+  - 50
+  - 51
+  - 52
+  - 53
 columnOrder:
-- ICON
-- TAG
-- DISTANCE
-- NAME
-- TYPE
-- ALLIANCE
-- CORPORATION
-- FACTION
-- MILITIA
-- SIZE
-- VELOCITY
-- RADIALVELOCITY
-- TRANSVERSALVELOCITY
-- ANGULARVELOCITY
+  - ICON
+  - TAG
+  - DISTANCE
+  - NAME
+  - TYPE
+  - ALLIANCE
+  - CORPORATION
+  - FACTION
+  - MILITIA
+  - SIZE
+  - VELOCITY
+  - RADIALVELOCITY
+  - TRANSVERSALVELOCITY
+  - ANGULARVELOCITY
 flagOrder:
-- 13
-- 44
-- 52
-- 11
-- 12
-- 14
-- 15
-- 16
-- 45
-- 9
-- 51
-- 50
-- 53
-- 19
-- 18
-- 10
-- 17
-- 48
-- 49
-- 21
-- 20
-- 66
+  - 13
+  - 44
+  - 52
+  - 11
+  - 12
+  - 14
+  - 15
+  - 16
+  - 45
+  - 9
+  - 51
+  - 50
+  - 53
+  - 19
+  - 18
+  - 10
+  - 17
+  - 48
+  - 49
+  - 21
+  - 20
+  - 66
 flagStates:
-- 9
-- 10
-- 11
-- 12
-- 13
-- 14
-- 15
-- 16
-- 17
-- 18
-- 19
-- 20
-- 21
-- 44
-- 45
-- 48
-- 49
-- 50
-- 51
-- 52
-- 53
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 44
+  - 45
+  - 48
+  - 49
+  - 50
+  - 51
+  - 52
+  - 53
 overviewColumns:
-- ALLIANCE
-- ANGULARVELOCITY
-- CORPORATION
-- DISTANCE
-- ICON
-- NAME
-- TRANSVERSALVELOCITY
-- TYPE
-- VELOCITY
+  - ALLIANCE
+  - ANGULARVELOCITY
+  - CORPORATION
+  - DISTANCE
+  - ICON
+  - NAME
+  - TRANSVERSALVELOCITY
+  - TYPE
+  - VELOCITY
 shipLabelOrder:
-- ship type
-- alliance
-- corporation
-- pilot name
-- ship name
-- null
+  - ship type
+  - alliance
+  - corporation
+  - pilot name
+  - ship name
+  - null
 shipLabels:
-- - null
-  - - - bold
-      - false
-    - - color
-      - null
-    - - fontsize
-      - null
-    - - italic
-      - false
-    - - post
-      - ''
-    - - pre
-      - ''
-    - - state
-      - 0
-    - - type
-      - null
-    - - underline
-      - false
-- - alliance
-  - - - post
-      - ']</color></fontsize>'
-    - - pre
-      - ' <fontsize=14><color=0xFFCCCC33>['
-    - - state
-      - 1
-    - - type
-      - alliance
-- - corporation
-  - - - post
-      - ']</b></color></fontsize>'
-    - - pre
-      - ' <fontsize=12><color=0xFFFFFFCC><b>['
-    - - state
-      - 1
-    - - type
-      - corporation
-- - pilot name
-  - - - post
-      - </b></color></fontsize><color=0xFFFF6600>
-    - - pre
-      - ' <fontsize=12><color=0xFFFFFFCC><b>'
-    - - state
-      - 1
-    - - type
-      - pilot name
-- - ship name
-  - - - post
-      - </i></color></fontsize>
-    - - pre
-      - '<fontsize=12><color=0xFFFFFFCC><i> - '
-    - - state
-      - 0
-    - - type
-      - ship name
-- - ship type
-  - - - post
-      - </u></b></color></fontsize>
-    - - pre
-      - <fontsize=14><color=0xFFFFCC66><b><u>
-    - - state
-      - 1
-    - - type
-      - ship type
+  - - null
+    - - - bold
+        - false
+      - - color
+        - null
+      - - fontsize
+        - null
+      - - italic
+        - false
+      - - post
+        - ""
+      - - pre
+        - ""
+      - - state
+        - 0
+      - - type
+        - null
+      - - underline
+        - false
+  - - alliance
+    - - - post
+        - "]</color></fontsize>"
+      - - pre
+        - " <fontsize=14><color=0xFFCCCC33>["
+      - - state
+        - 1
+      - - type
+        - alliance
+  - - corporation
+    - - - post
+        - "]</b></color></fontsize>"
+      - - pre
+        - " <fontsize=12><color=0xFFFFFFCC><b>["
+      - - state
+        - 1
+      - - type
+        - corporation
+  - - pilot name
+    - - - post
+        - </b></color></fontsize><color=0xFFFF6600>
+      - - pre
+        - " <fontsize=12><color=0xFFFFFFCC><b>"
+      - - state
+        - 1
+      - - type
+        - pilot name
+  - - ship name
+    - - - post
+        - </i></color></fontsize>
+      - - pre
+        - "<fontsize=12><color=0xFFFFFFCC><i> - "
+      - - state
+        - 0
+      - - type
+        - ship name
+  - - ship type
+    - - - post
+        - </u></b></color></fontsize>
+      - - pre
+        - <fontsize=14><color=0xFFFFCC66><b><u>
+      - - state
+        - 1
+      - - type
+        - ship type
 stateBlinks:
-- - background_13
-  - false
-- - background_44
-  - false
-- - flag_13
-  - true
-- - flag_44
-  - true
-- - flag_50
-  - false
-- - flag_51
-  - true
-- - flag_52
-  - true
-- - flag_9
-  - true
+  - - background_13
+    - false
+  - - background_44
+    - false
+  - - flag_13
+    - true
+  - - flag_44
+    - true
+  - - flag_50
+    - false
+  - - flag_51
+    - true
+  - - flag_52
+    - true
+  - - flag_9
+    - true
 stateColorsNameList:
-- - background_10
-  - white
-- - background_12
-  - darkBlue
-- - background_16
-  - darkBlue
-- - background_18
-  - red
-- - background_20
-  - white
-- - background_21
-  - white
-- - background_44
-  - red
-- - background_45
-  - blue
-- - background_48
-  - white
-- - background_49
-  - blue
-- - background_50
-  - orange
-- - background_51
-  - orange
-- - background_52
-  - orange
-- - background_9
-  - orange
-- - flag_48
-  - white
-- - flag_49
-  - white
+  - - background_10
+    - white
+  - - background_12
+    - darkBlue
+  - - background_16
+    - darkBlue
+  - - background_18
+    - red
+  - - background_20
+    - white
+  - - background_21
+    - white
+  - - background_44
+    - red
+  - - background_45
+    - blue
+  - - background_48
+    - white
+  - - background_49
+    - white
+  - - background_50
+    - orange
+  - - background_51
+    - orange
+  - - background_52
+    - orange
+  - - background_9
+    - orange
+  - - flag_48
+    - white
+  - - flag_49
+    - white
 tabSetup:
-- - 0
-  - - - bracket
-      - ⌘ 图标：航行
-    - - color
-      - null
-    - - name
-      - <color=0xFFFF99FF><b><fontsize=13> ✈ </fontsize></b></color>
-    - - overview
-      - <color=0xFFFFCCFF>✈ 航行（-舰船 +空间站）</color>
-- - 1
-  - - - bracket
-      - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
-    - - color
-      - null
-    - - name
-      - <color=0xFFFF6666><b><fontsize=13> ✯ </fontsize></b></color>
-    - - overview
-      - <color=0xFFFF6666>✯ --- 作战：基本（+敌对 +NPC）</color>
-- - 2
-  - - - bracket
-      - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
-    - - color
-      - null
-    - - name
-      - <color=0xFFFFFF66><b><fontsize=13> ✜ </fontsize></b></color>
-    - - overview
-      - <color=0xFFFFFF66>✜ 目标：所有无人机（+铁骑）</color>
-- - 3
-  - - - bracket
-      - ⌘ 图标：生产
-    - - color
-      - null
-    - - name
-      - <color=0xFF33FFFF><b><fontsize=13> ☭ </fontsize></b></color>
-    - - overview
-      - <color=0xFF33FFFF>☭ 生产：打捞/残骸</color>
-- - 4
-  - - - bracket
-      - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
-    - - color
-      - null
-    - - name
-      - <color=0xFF66CCFF><b><fontsize=13> ✪ </fontsize></b></color>
-    - - overview
-      - <color=0xFF66CCFF>✪ --- 友军：所有</color>
-- - 5
-  - - - bracket
-      - ⌘ 图标：跑蛋 (!)
-    - - color
-      - null
-    - - name
-      - <color=0xFF66FF66><b><fontsize=13> ➲ </fontsize></b></color>
-    - - overview
-      - <color=0xFF66FF66>➲ 额外：跑蛋 (!)</color>
-- - 6
-  - - - bracket
-      - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
-    - - color
-      - null
-    - - name
-      - <color=0xFFFF0000><b><fontsize=13> ♠ </fontsize></b></color>
-    - - overview
-      - <color=0xFFFFFF66>✜ 目标：移动反诱导 (!)</color>
+  - - 0
+    - - - bracket
+        - ⌘ 图标：航行
+      - - color
+        - null
+      - - name
+        - <color=0xFFFF99FF><b><fontsize=13> ✈ </fontsize></b></color>
+      - - overview
+        - <color=0xFFFFCCFF>✈ 航行（-舰船 +空间站）</color>
+  - - 1
+    - - - bracket
+        - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
+      - - color
+        - null
+      - - name
+        - <color=0xFFFF6666><b><fontsize=13> ✯ </fontsize></b></color>
+      - - overview
+        - <color=0xFFFF6666>✯ --- 作战：基本（+敌对 +NPC）</color>
+  - - 2
+    - - - bracket
+        - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
+      - - color
+        - null
+      - - name
+        - <color=0xFFFFFF66><b><fontsize=13> ✜ </fontsize></b></color>
+      - - overview
+        - <color=0xFFFFFF66>✜ 目标：所有无人机（+铁骑）</color>
+  - - 3
+    - - - bracket
+        - ⌘ 图标：生产
+      - - color
+        - null
+      - - name
+        - <color=0xFF33FFFF><b><fontsize=13> ☭ </fontsize></b></color>
+      - - overview
+        - <color=0xFF33FFFF>☭ 生产：打捞/残骸</color>
+  - - 4
+    - - - bracket
+        - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
+      - - color
+        - null
+      - - name
+        - <color=0xFF66CCFF><b><fontsize=13> ✪ </fontsize></b></color>
+      - - overview
+        - <color=0xFF66CCFF>✪ --- 友军：所有</color>
+  - - 5
+    - - - bracket
+        - ⌘ 图标：跑蛋 (!)
+      - - color
+        - null
+      - - name
+        - <color=0xFF66FF66><b><fontsize=13> ➲ </fontsize></b></color>
+      - - overview
+        - <color=0xFF66FF66>➲ 额外：跑蛋 (!)</color>
+  - - 6
+    - - - bracket
+        - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
+      - - color
+        - null
+      - - name
+        - <color=0xFFFF0000><b><fontsize=13> ♠ </fontsize></b></color>
+      - - overview
+        - <color=0xFFFFFF66>✜ 目标：移动反诱导 (!)</color>
 userSettings: []
