@@ -208,7 +208,7 @@ presets:
           - 659
           - 863
           - 864
-  - - <color=0xFFFFFF66>✜ 目标：所有旗舰（+铁骑）</color>
+  - - <color=0xFFFFFF66>✜ 目标：所有旗舰</color>
     - - - alwaysShownStates
         - []
       - - filteredStates

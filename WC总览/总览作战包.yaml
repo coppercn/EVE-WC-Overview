@@ -1112,7 +1112,7 @@ presets:
           - 4093
           - 4107
           - 4137
-  - - <color=0xFFFF6666>✯ 作战：作战对象</color>
+  - - <color=0xFFFF6666>✯ 作战：宣战</color>
     - - - alwaysShownStates
         - - 13
           - 44
