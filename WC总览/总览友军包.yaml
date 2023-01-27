@@ -1,25 +1,25 @@
 backgroundOrder:
-  - 13
-  - 44
-  - 52
   - 11
   - 12
   - 14
   - 15
   - 16
   - 45
-  - 49
-  - 19
-  - 18
-  - 9
+  - 13
+  - 44
+  - 52
   - 51
+  - 9
   - 50
   - 53
+  - 19
+  - 18
+  - 49
   - 10
-  - 20
-  - 21
   - 17
+  - 20
   - 48
+  - 21
   - 66
 backgroundStates:
   - 9
@@ -59,25 +59,25 @@ columnOrder:
   - TRANSVERSALVELOCITY
   - ANGULARVELOCITY
 flagOrder:
-  - 13
-  - 44
-  - 52
   - 11
   - 12
   - 14
   - 15
   - 16
   - 45
-  - 9
+  - 13
+  - 44
+  - 52
   - 51
+  - 9
   - 50
   - 53
   - 19
   - 18
+  - 49
   - 10
   - 17
   - 48
-  - 49
   - 21
   - 20
   - 66
@@ -122,7 +122,6 @@ presets:
           - 15
           - 16
           - 45
-          - 49
       - - filteredStates
         - - 9
           - 10
@@ -136,6 +135,7 @@ presets:
           - 37
           - 44
           - 48
+          - 49
           - 50
           - 51
           - 52
@@ -153,7 +153,7 @@ presets:
           - 906
           - 1548
           - 4088
-  - - <color=0xFF66CCFF>✪ 友军：拦截</color>
+  - - <color=0xFF66CCFF>✪ 友军：轻拦/重拦</color>
     - - - alwaysShownStates
         - - 11
           - 12
@@ -161,7 +161,6 @@ presets:
           - 15
           - 16
           - 45
-          - 49
       - - filteredStates
         - - 9
           - 10
@@ -175,6 +174,7 @@ presets:
           - 37
           - 44
           - 48
+          - 49
           - 50
           - 51
           - 52
@@ -192,7 +192,7 @@ presets:
           - 894
           - 1548
           - 4088
-  - - <color=0xFF66CCFF>✪ 友军：小航/后勤航</color>
+  - - <color=0xFF66CCFF>✪ 友军：小航/FAX</color>
     - - - alwaysShownStates
         - - 11
           - 12
@@ -200,7 +200,6 @@ presets:
           - 15
           - 16
           - 45
-          - 49
       - - filteredStates
         - - 9
           - 10
@@ -214,6 +213,7 @@ presets:
           - 37
           - 44
           - 48
+          - 49
           - 50
           - 51
           - 52
@@ -239,7 +239,6 @@ presets:
           - 15
           - 16
           - 45
-          - 49
       - - filteredStates
         - - 9
           - 10
@@ -253,6 +252,7 @@ presets:
           - 37
           - 44
           - 48
+          - 49
           - 50
           - 51
           - 52
@@ -279,7 +279,6 @@ presets:
           - 15
           - 16
           - 45
-          - 49
       - - filteredStates
         - - 9
           - 10
@@ -293,6 +292,7 @@ presets:
           - 37
           - 44
           - 48
+          - 49
           - 50
           - 51
           - 52
@@ -322,7 +322,6 @@ presets:
           - 15
           - 16
           - 45
-          - 49
       - - filteredStates
         - - 9
           - 10
@@ -336,6 +335,7 @@ presets:
           - 37
           - 44
           - 48
+          - 49
           - 50
           - 51
           - 52
@@ -460,7 +460,6 @@ presets:
           - 15
           - 16
           - 45
-          - 49
       - - filteredStates
         - - 9
           - 10
@@ -474,6 +473,7 @@ presets:
           - 37
           - 44
           - 48
+          - 49
           - 50
           - 51
           - 52
@@ -499,7 +499,6 @@ presets:
           - 15
           - 16
           - 45
-          - 49
       - - filteredStates
         - - 9
           - 10
@@ -513,6 +512,7 @@ presets:
           - 37
           - 44
           - 48
+          - 49
           - 50
           - 51
           - 52
@@ -537,7 +537,6 @@ presets:
           - 15
           - 16
           - 45
-          - 49
       - - filteredStates
         - - 9
           - 10
@@ -551,6 +550,7 @@ presets:
           - 37
           - 44
           - 48
+          - 49
           - 50
           - 51
           - 52
@@ -575,7 +575,6 @@ presets:
           - 15
           - 16
           - 45
-          - 49
       - - filteredStates
         - - 9
           - 10
@@ -589,6 +588,7 @@ presets:
           - 37
           - 44
           - 48
+          - 49
           - 50
           - 51
           - 52
@@ -691,7 +691,6 @@ presets:
           - 15
           - 16
           - 45
-          - 49
       - - filteredStates
         - - 9
           - 10
@@ -705,6 +704,7 @@ presets:
           - 37
           - 44
           - 48
+          - 49
           - 50
           - 51
           - 52
@@ -732,6 +732,7 @@ presets:
 shipLabelOrder:
   - ship type
   - alliance
+  - linebreak
   - corporation
   - pilot name
   - ship name
@@ -758,7 +759,7 @@ shipLabels:
         - false
   - - alliance
     - - - post
-        - "]</color></fontsize>"
+        - "]</color></fontsize><color=0xFFFF6600>"
       - - pre
         - " <fontsize=14><color=0xFFCCCC33>["
       - - state
@@ -767,36 +768,55 @@ shipLabels:
         - alliance
   - - corporation
     - - - post
-        - "]</b></color></fontsize>"
+        - "]</b></color></fontsize><color=0xFFFF6600>"
       - - pre
         - " <fontsize=12><color=0xFFFFFFCC><b>["
       - - state
         - 1
       - - type
         - corporation
+  - - linebreak
+    - - - bold
+        - false
+      - - color
+        - null
+      - - fontsize
+        - null
+      - - italic
+        - false
+      - - post
+        - null
+      - - pre
+        - null
+      - - state
+        - null
+      - - type
+        - linebreak
+      - - underline
+        - false
   - - pilot name
     - - - post
-        - </b></color></fontsize><color=0xFFFF6600>
+        - "</b></color></fontsize><color=0xFFFF6600>"
       - - pre
-        - " <fontsize=12><color=0xFFFFFFCC><b>"
+        - " <fontsize=12><color=0xFFFFFFFF><b>"
       - - state
         - 1
       - - type
         - pilot name
   - - ship name
     - - - post
-        - </i></color></fontsize>
+        - "</i></color></fontsize><color=0xFFFF6600>"
       - - pre
-        - "<fontsize=12><color=0xFFFFFFCC><i> - "
+        - " <fontsize=11><color=0xFFFFFFCC><i>"
       - - state
         - 0
       - - type
         - ship name
   - - ship type
     - - - post
-        - </u></b></color></fontsize>
+        - "</u></b></color></fontsize><color=0xFFFF6600>"
       - - pre
-        - <fontsize=14><color=0xFFFFCC66><b><u>
+        - " <fontsize=14><color=0xFFFFCC66><b><u>"
       - - state
         - 1
       - - type
