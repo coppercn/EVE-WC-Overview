@@ -9205,10 +9205,9 @@ presets:
 shipLabelOrder:
   - ship type
   - alliance
-  - linebreak
-  - pilot name
   - corporation
   - linebreak
+  - pilot name
   - ship name
   - null
 shipLabels:
@@ -9261,25 +9260,6 @@ shipLabels:
         - 1
       - - type
         - corporation
-  - - linebreak
-    - - - bold
-        - false
-      - - color
-        - null
-      - - fontsize
-        - null
-      - - italic
-        - false
-      - - post
-        - null
-      - - pre
-        - null
-      - - state
-        - null
-      - - type
-        - linebreak
-      - - underline
-        - false
   - - linebreak
     - - - bold
         - false
