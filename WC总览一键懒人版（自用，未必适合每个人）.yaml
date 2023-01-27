@@ -9,13 +9,13 @@ backgroundOrder:
   - 44
   - 52
   - 51
+  - 9
   - 50
   - 53
   - 19
   - 18
-  - 9
-  - 10
   - 49
+  - 10
   - 17
   - 20
   - 48
@@ -69,13 +69,13 @@ flagOrder:
   - 44
   - 52
   - 51
+  - 9
   - 50
   - 53
   - 19
   - 18
-  - 9
-  - 10
   - 49
+  - 10
   - 17
   - 48
   - 21
@@ -1863,7 +1863,7 @@ presets:
           - 659
           - 863
           - 864
-  - - <color=0xFF66CCFF>✪ 友军：小航/后勤航</color>
+  - - <color=0xFF66CCFF>✪ 友军：小航/FAX</color>
     - - - alwaysShownStates
         - - 11
           - 12
@@ -1902,7 +1902,7 @@ presets:
           - 1538
           - 1548
           - 4088
-  - - <color=0xFF66CCFF>✪ 友军：拦截</color>
+  - - <color=0xFF66CCFF>✪ 友军：轻拦/重拦</color>
     - - - alwaysShownStates
         - - 11
           - 12
@@ -4435,7 +4435,7 @@ presets:
           - 4093
           - 4107
           - 4137
-  - - <color=0xFF33FFFF>☭ 生产：挖矿（所有）</color>
+  - - <color=0xFF33FFFF>☭ 生产：挖矿（普矿）</color>
     - - - alwaysShownStates
         - []
       - - filteredStates
@@ -4919,7 +4919,7 @@ presets:
           - 485
           - 863
           - 864
-  - - <color=0xFFFFFF66>✜ 目标：移动反诱导 (!)</color>
+  - - <color=0xFFFFFF66>✜ 目标：移动反诱导（!）</color>
     - - - alwaysShownStates
         - []
       - - filteredStates
@@ -5637,7 +5637,7 @@ presets:
           - 4093
           - 4107
           - 4137
-  - - <color=0xFFFFFF66>✜ 目标：拦截</color>
+  - - <color=0xFFFFFF66>✜ 目标：轻拦/重拦</color>
     - - - filteredStates
         - - 11
           - 12
@@ -5654,7 +5654,7 @@ presets:
           - 863
           - 864
           - 894
-  - - <color=0xFFFFFF66>✜ 目标：后勤航</color>
+  - - <color=0xFFFFFF66>✜ 目标：FAX</color>
     - - - alwaysShownStates
         - []
       - - filteredStates
@@ -8356,7 +8356,7 @@ presets:
           - 1538
           - 1548
           - 4088
-  - - <color=0xFF66FF66>➲ 额外：跑蛋 (!)</color>
+  - - <color=0xFF66FF66>➲ 额外：跑蛋（!）</color>
     - - - alwaysShownStates
         - []
       - - filteredStates
@@ -9186,7 +9186,7 @@ presets:
           - 4093
           - 4107
           - 4137
-  - - <color=0xFFFFFF66>✜ 目标：隐轰 (!)</color>
+  - - <color=0xFFFFFF66>✜ 目标：隐轰（!）</color>
     - - - alwaysShownStates
         - []
       - - filteredStates
@@ -9224,7 +9224,7 @@ shipLabels:
       - - post
         - ""
       - - pre
-        - " -"
+        - ""
       - - state
         - 0
       - - type
@@ -9320,7 +9320,7 @@ shipLabels:
       - - post
         - ""
       - - pre
-        - " - "
+        - " "
       - - state
         - 0
       - - type
@@ -9335,7 +9335,7 @@ shipLabels:
       - - post
         - ""
       - - pre
-        - ""
+        - " "
       - - state
         - 1
       - - type
@@ -9448,7 +9448,7 @@ tabSetup:
       - - name
         - <color=0xFF66FF66><b><fontsize=13> 跃迁! </fontsize></b></color>
       - - overview
-        - <color=0xFF66FF66>➲ 额外：跑蛋 (!)</color>
+        - <color=0xFF66FF66>➲ 额外：跑蛋（!）</color>
   - - 6
     - - - bracket
         - ⌘ 图标：所有
