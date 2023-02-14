@@ -49,15 +49,15 @@ columnOrder:
   - DISTANCE
   - NAME
   - TYPE
+  - VELOCITY
+  - RADIALVELOCITY
+  - TRANSVERSALVELOCITY
+  - ANGULARVELOCITY
   - ALLIANCE
   - CORPORATION
   - FACTION
   - MILITIA
   - SIZE
-  - VELOCITY
-  - RADIALVELOCITY
-  - TRANSVERSALVELOCITY
-  - ANGULARVELOCITY
 flagOrder:
   - 11
   - 12
@@ -105,12 +105,9 @@ flagStates:
   - 53
 overviewColumns:
   - ALLIANCE
-  - ANGULARVELOCITY
-  - CORPORATION
   - DISTANCE
   - ICON
   - NAME
-  - TRANSVERSALVELOCITY
   - TYPE
   - VELOCITY
 shipLabelOrder:
@@ -265,6 +262,21 @@ tabSetup:
         - <color=0xFFFF99FF><b><fontsize=13> ✈ </fontsize></b></color>
       - - overview
         - <color=0xFFFFCCFF>✈ 航行（-舰船 +空间站）</color>
+      - - tabColumnOrder
+        - - ICON
+          - TAG
+          - DISTANCE
+          - NAME
+          - TYPE
+          - VELOCITY
+          - RADIALVELOCITY
+          - TRANSVERSALVELOCITY
+          - ANGULARVELOCITY
+          - ALLIANCE
+          - CORPORATION
+          - FACTION
+          - MILITIA
+          - SIZE
   - - 1
     - - - bracket
         - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
@@ -274,6 +286,21 @@ tabSetup:
         - <color=0xFFFF6666><b><fontsize=13> ✯ 作战 </fontsize></b></color>
       - - overview
         - <color=0xFFFF6666>✯ --- 作战：基本（+敌对 +NPC）</color>
+      - - tabColumnOrder
+        - - ICON
+          - TAG
+          - DISTANCE
+          - NAME
+          - TYPE
+          - VELOCITY
+          - RADIALVELOCITY
+          - TRANSVERSALVELOCITY
+          - ANGULARVELOCITY
+          - ALLIANCE
+          - CORPORATION
+          - FACTION
+          - MILITIA
+          - SIZE
   - - 2
     - - - bracket
         - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
@@ -283,6 +310,21 @@ tabSetup:
         - <color=0xFFFFFF66><b><fontsize=13> ✜ 目标 </fontsize></b></color>
       - - overview
         - <color=0xFFFFFF66>✜ 目标：所有无人机（+铁骑）</color>
+      - - tabColumnOrder
+        - - ICON
+          - TAG
+          - DISTANCE
+          - NAME
+          - TYPE
+          - VELOCITY
+          - RADIALVELOCITY
+          - TRANSVERSALVELOCITY
+          - ANGULARVELOCITY
+          - ALLIANCE
+          - CORPORATION
+          - FACTION
+          - MILITIA
+          - SIZE
   - - 3
     - - - bracket
         - ⌘ 图标：生产
@@ -292,6 +334,21 @@ tabSetup:
         - <color=0xFF33FFFF><b><fontsize=13> ☭ 生产 </fontsize></b></color>
       - - overview
         - <color=0xFF33FFFF>☭ 生产：打捞/残骸</color>
+      - - tabColumnOrder
+        - - ICON
+          - TAG
+          - DISTANCE
+          - NAME
+          - TYPE
+          - VELOCITY
+          - RADIALVELOCITY
+          - TRANSVERSALVELOCITY
+          - ANGULARVELOCITY
+          - ALLIANCE
+          - CORPORATION
+          - FACTION
+          - MILITIA
+          - SIZE
   - - 4
     - - - bracket
         - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
@@ -301,6 +358,21 @@ tabSetup:
         - <color=0xFF66CCFF><b><fontsize=13> ✪ 友军 </fontsize></b></color>
       - - overview
         - <color=0xFF66CCFF>✪ --- 友军：所有</color>
+      - - tabColumnOrder
+        - - ICON
+          - TAG
+          - DISTANCE
+          - NAME
+          - TYPE
+          - VELOCITY
+          - RADIALVELOCITY
+          - TRANSVERSALVELOCITY
+          - ANGULARVELOCITY
+          - ALLIANCE
+          - CORPORATION
+          - FACTION
+          - MILITIA
+          - SIZE
   - - 5
     - - - bracket
         - ⌘ 图标：跑蛋（!）
@@ -310,6 +382,21 @@ tabSetup:
         - <color=0xFF66FF66><b><fontsize=13> ➲ 跃迁! </fontsize></b></color>
       - - overview
         - <color=0xFF66FF66>➲ 额外：跑蛋（!）</color>
+      - - tabColumnOrder
+        - - ICON
+          - TAG
+          - DISTANCE
+          - NAME
+          - TYPE
+          - VELOCITY
+          - RADIALVELOCITY
+          - TRANSVERSALVELOCITY
+          - ANGULARVELOCITY
+          - ALLIANCE
+          - CORPORATION
+          - FACTION
+          - MILITIA
+          - SIZE
   - - 6
     - - - bracket
         - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
@@ -319,4 +406,19 @@ tabSetup:
         - <color=0xFFFF0000><b><fontsize=13> ♠ 特殊 </fontsize></b></color>
       - - overview
         - <color=0xFFFFFF66>✜ 目标：移动反诱导（!）</color>
+      - - tabColumnOrder
+        - - ICON
+          - TAG
+          - DISTANCE
+          - NAME
+          - TYPE
+          - VELOCITY
+          - RADIALVELOCITY
+          - TRANSVERSALVELOCITY
+          - ANGULARVELOCITY
+          - ALLIANCE
+          - CORPORATION
+          - FACTION
+          - MILITIA
+          - SIZE
 userSettings: []

@@ -49,15 +49,15 @@ columnOrder:
   - DISTANCE
   - NAME
   - TYPE
+  - VELOCITY
+  - RADIALVELOCITY
+  - TRANSVERSALVELOCITY
+  - ANGULARVELOCITY
   - ALLIANCE
   - CORPORATION
   - FACTION
   - MILITIA
   - SIZE
-  - VELOCITY
-  - RADIALVELOCITY
-  - TRANSVERSALVELOCITY
-  - ANGULARVELOCITY
 flagOrder:
   - 11
   - 12
@@ -105,12 +105,9 @@ flagStates:
   - 53
 overviewColumns:
   - ALLIANCE
-  - ANGULARVELOCITY
-  - CORPORATION
   - DISTANCE
   - ICON
   - NAME
-  - TRANSVERSALVELOCITY
   - TYPE
   - VELOCITY
 presets:
@@ -3469,8 +3466,8 @@ tabSetup:
       - - color
         - null
       - - name
-        - " <fontsize=12><color=0xFF66CCFF><b> 凛冬总览核心加载完成! </b></color></fontsize> <fontsize=12><color=0xFFFF6666><b>
-          •请加载凛冬总览作战包 </b></color></fontsize>"
+        - "<fontsize=12><color=0xFF66CCFF><b> •凛冬总览核心加载完成！</b></color></fontsize>\n
+        <fontsize=12><color=0xFFFF6666><b>•请加载凛冬总览作战包</b></color></fontsize>"
       - - overview
         - null
 userSettings: []
