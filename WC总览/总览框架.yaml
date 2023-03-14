@@ -257,9 +257,11 @@ tabSetup:
     - - - bracket
         - ⌘ 图标：航行
       - - color
-        - null
+        - - 1.0
+          - 0.25
+          - 0.8125
       - - name
-        - <color=0xFFFF99FF><b><fontsize=13> ✈ </fontsize></b></color>
+        - ✈
       - - overview
         - <color=0xFFFFCCFF>✈ 航行（-舰船 +空间站）</color>
       - - tabColumnOrder
@@ -281,9 +283,11 @@ tabSetup:
     - - - bracket
         - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
       - - color
-        - null
+        - - 1.0
+          - 0.25
+          - 0.25
       - - name
-        - <color=0xFFFF6666><b><fontsize=13> ✯ 作战 </fontsize></b></color>
+        - ✯ 作战
       - - overview
         - <color=0xFFFF6666>✯ --- 作战：基本（+敌对 +NPC）</color>
       - - tabColumnOrder
@@ -305,9 +309,11 @@ tabSetup:
     - - - bracket
         - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
       - - color
-        - null
+        - - 1.0
+          - 1.0
+          - 0.25
       - - name
-        - <color=0xFFFFFF66><b><fontsize=13> ✜ 目标 </fontsize></b></color>
+        - ✜ 目标
       - - overview
         - <color=0xFFFFFF66>✜ 目标：所有无人机（+铁骑）</color>
       - - tabColumnOrder
@@ -329,9 +335,11 @@ tabSetup:
     - - - bracket
         - ⌘ 图标：生产
       - - color
-        - null
+        - - 0.25
+          - 1.0
+          - 1.0
       - - name
-        - <color=0xFF33FFFF><b><fontsize=13> ☭ 生产 </fontsize></b></color>
+        - ☭ 生产
       - - overview
         - <color=0xFF33FFFF>☭ 生产：打捞/残骸</color>
       - - tabColumnOrder
@@ -353,9 +361,11 @@ tabSetup:
     - - - bracket
         - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
       - - color
-        - null
+        - - 0.25
+          - 0.8125
+          - 1.0
       - - name
-        - <color=0xFF66CCFF><b><fontsize=13> ✪ 友军 </fontsize></b></color>
+        - ✪ 友军
       - - overview
         - <color=0xFF66CCFF>✪ --- 友军：所有</color>
       - - tabColumnOrder
@@ -377,9 +387,11 @@ tabSetup:
     - - - bracket
         - ⌘ 图标：跑蛋（!）
       - - color
-        - null
+        - - 0.25
+          - 1.0
+          - 0.25
       - - name
-        - <color=0xFF66FF66><b><fontsize=13> ➲ 跃迁! </fontsize></b></color>
+        - ➲ 跃迁！
       - - overview
         - <color=0xFF66FF66>➲ 额外：跑蛋（!）</color>
       - - tabColumnOrder
@@ -401,9 +413,11 @@ tabSetup:
     - - - bracket
         - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
       - - color
-        - null
+        - - 1.0
+          - 0.25
+          - 0.4375
       - - name
-        - <color=0xFFFF0000><b><fontsize=13> ♠ 特殊 </fontsize></b></color>
+        - ♠ 特殊
       - - overview
         - <color=0xFFFFFF66>✜ 目标：移动反诱导（!）</color>
       - - tabColumnOrder
