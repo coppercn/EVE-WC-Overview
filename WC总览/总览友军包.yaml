@@ -111,7 +111,7 @@ overviewColumns:
   - TYPE
   - VELOCITY
 presets:
-  - - <color=0xFF66CCFF>✪ 友军：侦察</color>
+  - - <color=0xFF66CCFF>✪ 友军：[M]侦察</color>
     - - - alwaysShownStates
         - - 11
           - 12
@@ -150,7 +150,7 @@ presets:
           - 906
           - 1548
           - 4088
-  - - <color=0xFF66CCFF>✪ 友军：轻拦/重拦</color>
+  - - <color=0xFF66CCFF>✪ 友军：[S/M]轻拦/重拦</color>
     - - - alwaysShownStates
         - - 11
           - 12
@@ -189,7 +189,7 @@ presets:
           - 894
           - 1548
           - 4088
-  - - <color=0xFF66CCFF>✪ 友军：小航/FAX</color>
+  - - <color=0xFF66CCFF>✪ 友军：[XL]小航/FAX</color>
     - - - alwaysShownStates
         - - 11
           - 12
@@ -228,7 +228,7 @@ presets:
           - 1538
           - 1548
           - 4088
-  - - <color=0xFF66CCFF>✪ 友军：后勤</color>
+  - - <color=0xFF66CCFF>✪ 友军：[S/M]后勤</color>
     - - - alwaysShownStates
         - - 11
           - 12
@@ -268,50 +268,7 @@ presets:
           - 1538
           - 1548
           - 4088
-  - - <color=0xFF66CCFF>✪ 友军：所有旗舰（-大小鱼 -货舰）</color>
-    - - - alwaysShownStates
-        - - 11
-          - 12
-          - 14
-          - 15
-          - 16
-          - 45
-      - - filteredStates
-        - - 9
-          - 10
-          - 13
-          - 17
-          - 18
-          - 19
-          - 20
-          - 21
-          - 36
-          - 37
-          - 44
-          - 48
-          - 49
-          - 50
-          - 51
-          - 52
-          - 53
-      - - groups
-        - - 6
-          - 30
-          - 90
-          - 361
-          - 479
-          - 485
-          - 492
-          - 547
-          - 548
-          - 659
-          - 863
-          - 864
-          - 883
-          - 1538
-          - 1548
-          - 4088
-  - - <color=0xFF66CCFF>✪ 友军：无畏</color>
+  - - <color=0xFF66CCFF>✪ 友军：[XL]无畏</color>
     - - - alwaysShownStates
         - - 11
           - 12
@@ -449,7 +406,7 @@ presets:
           - 4093
           - 4107
           - 4137
-  - - <color=0xFF66CCFF>✪ 友军：大航/泰坦</color>
+  - - <color=0xFF66CCFF>✪ 友军：[XL]大航/泰坦</color>
     - - - alwaysShownStates
         - - 11
           - 12
@@ -488,7 +445,7 @@ presets:
           - 864
           - 1548
           - 4088
-  - - <color=0xFF66CCFF>✪ 友军：指挥驱逐舰</color>
+  - - <color=0xFF66CCFF>✪ 友军：[S]跳驱</color>
     - - - alwaysShownStates
         - - 11
           - 12
@@ -526,7 +483,7 @@ presets:
           - 1534
           - 1548
           - 4088
-  - - <color=0xFF66CCFF>✪ 友军：监视者级</color>
+  - - <color=0xFF66CCFF>✪ 友军：[M]监视者级</color>
     - - - alwaysShownStates
         - - 11
           - 12
@@ -680,7 +637,7 @@ presets:
           - 4093
           - 4107
           - 4137
-  - - <color=0xFF66CCFF>✪ 友军：所有旗舰（+大小鱼 +货舰）</color>
+  - - <color=0xFF66CCFF>✪ 友军：[XL]所有旗舰</color>
     - - - alwaysShownStates
         - - 11
           - 12

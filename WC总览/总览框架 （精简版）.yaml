@@ -113,8 +113,8 @@ overviewColumns:
 shipLabelOrder:
   - ship type
   - alliance
-  - linebreak
   - corporation
+  - linebreak
   - pilot name
   - ship name
   - null
@@ -139,19 +139,39 @@ shipLabels:
       - - underline
         - false
   - - alliance
-    - - - post
-        - "]</color></fontsize><color=0xFFFF6600>"
+    - - - bold
+        - false
+      - - color
+        - - 1.0
+          - 0.8
+          - 0.4
+      - - fontsize
+        - 14
+      - - italic
+        - false
+      - - post
+        - "]"
       - - pre
-        - " <fontsize=14><color=0xFFCCCC33>["
+        - " ["
       - - state
         - 1
       - - type
         - alliance
   - - corporation
-    - - - post
-        - "]</b></color></fontsize><color=0xFFFF6600>"
+    - - - bold
+        - true
+      - - color
+        - - 1.0
+          - 1.0
+          - 0.8
+      - - fontsize
+        - 12
+      - - italic
+        - false
+      - - post
+        - "]"
       - - pre
-        - " <fontsize=12><color=0xFFFFFFCC><b>["
+        - " ["
       - - state
         - 1
       - - type
@@ -176,32 +196,62 @@ shipLabels:
       - - underline
         - false
   - - pilot name
-    - - - post
-        - "</b></color></fontsize><color=0xFFFF6600>"
+    - - - bold
+        - true
+      - - color
+        - - 1.0
+          - 1.0
+          - 1.0
+      - - fontsize
+        - 12
+      - - italic
+        - false
+      - - post
+        - " -"
       - - pre
-        - " <fontsize=12><color=0xFFFFFFFF><b>"
+        - " "
       - - state
         - 1
       - - type
         - pilot name
   - - ship name
-    - - - post
-        - "</i></color></fontsize><color=0xFFFF6600>"
+    - - - bold
+        - false
+      - - color
+        - null
+      - - fontsize
+        - 10
+      - - italic
+        - false
+      - - post
+        - "'"
       - - pre
-        - " <fontsize=11><color=0xFFFFFFCC><i>"
+        - " '"
       - - state
         - 0
       - - type
         - ship name
   - - ship type
-    - - - post
-        - "</u></b></color></fontsize><color=0xFFFF6600>"
+    - - - bold
+        - true
+      - - color
+        - - 1.0
+          - 0.8
+          - 0.4
+      - - fontsize
+        - 14
+      - - italic
+        - false
+      - - post
+        - ""
       - - pre
-        - " <fontsize=14><color=0xFFFFCC66><b><u>"
+        - " "
       - - state
         - 1
       - - type
         - ship type
+      - - underline
+        - true
 stateBlinks:
   - - background_13
     - false
@@ -255,15 +305,15 @@ stateColorsNameList:
 tabSetup:
   - - 0
     - - - bracket
-        - ⌘ 图标：航行
+        - ⌘ 图标：所有
       - - color
         - - 1.0
-          - 0.25
-          - 0.8125
+          - 0.8
+          - 1.0
       - - name
         - "ㅤ✈ㅤ"
       - - overview
-        - <color=0xFFFFCCFF>✈ 航行（-舰船 +空间站）</color>
+        - <color=0xFFFFCCFF>✈ 航行：空间站</color>
       - - tabColumnOrder
         - - ICON
           - TAG
@@ -281,11 +331,11 @@ tabSetup:
           - SIZE
   - - 1
     - - - bracket
-        - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
+        - ⌘ 图标：所有
       - - color
         - - 1.0
-          - 0.25
-          - 0.25
+          - 0.4
+          - 0.4
       - - name
         - "ㅤ✯ㅤ"
       - - overview
@@ -307,15 +357,15 @@ tabSetup:
           - SIZE
   - - 2
     - - - bracket
-        - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
+        - ⌘ 图标：所有
       - - color
         - - 1.0
           - 1.0
-          - 0.25
+          - 0.4
       - - name
         - "ㅤ✜ㅤ"
       - - overview
-        - <color=0xFFFFFF66>✜ 目标：所有无人机（+铁骑）</color>
+        - <color=0xFFFFFF66>✜ 目标：[D]所有无人机（+铁骑）</color>
       - - tabColumnOrder
         - - ICON
           - TAG
@@ -335,7 +385,7 @@ tabSetup:
     - - - bracket
         - ⌘ 图标：生产
       - - color
-        - - 0.25
+        - - 0.2
           - 1.0
           - 1.0
       - - name
@@ -359,10 +409,10 @@ tabSetup:
           - SIZE
   - - 4
     - - - bracket
-        - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
+        - ⌘ 图标：所有
       - - color
-        - - 0.25
-          - 0.8125
+        - - 0.4
+          - 0.8
           - 1.0
       - - name
         - "ㅤ✪ㅤ"
@@ -385,15 +435,15 @@ tabSetup:
           - SIZE
   - - 5
     - - - bracket
-        - ⌘ 图标：跑蛋（!）
+        - ⌘ 图标：所有
       - - color
-        - - 0.25
+        - - 0.4
           - 1.0
-          - 0.25
+          - 0.4
       - - name
         - "ㅤ➲ㅤ"
       - - overview
-        - <color=0xFF66FF66>➲ 额外：跑蛋（!）</color>
+        - <color=0xFF66FF66>➲ 跑蛋! </color>
       - - tabColumnOrder
         - - ICON
           - TAG
@@ -411,15 +461,15 @@ tabSetup:
           - SIZE
   - - 6
     - - - bracket
-        - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
+        - ⌘ 图标：所有
       - - color
         - - 1.0
-          - 0.25
-          - 0.4375
+          - 0.0
+          - 0.0
       - - name
         - "ㅤ♠ㅤ"
       - - overview
-        - <color=0xFFFFFF66>✜ 目标：移动反诱导（!）</color>
+        - <color=0xFFFFFF66>✜ 目标：[!]移动反诱导</color>
       - - tabColumnOrder
         - - ICON
           - TAG
