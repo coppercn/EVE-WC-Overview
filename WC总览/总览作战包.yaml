@@ -1746,8 +1746,8 @@ presets:
 shipLabelOrder:
   - ship type
   - alliance
-  - linebreak
   - corporation
+  - linebreak
   - pilot name
   - ship name
   - null
@@ -1772,19 +1772,39 @@ shipLabels:
       - - underline
         - false
   - - alliance
-    - - - post
-        - "]</color></fontsize><color=0xFFFF6600>"
+    - - - bold
+        - false
+      - - color
+        - - 1.0
+          - 0.8
+          - 0.4
+      - - fontsize
+        - 14
+      - - italic
+        - false
+      - - post
+        - "]"
       - - pre
-        - " <fontsize=14><color=0xFFCCCC33>["
+        - " ["
       - - state
         - 1
       - - type
         - alliance
   - - corporation
-    - - - post
-        - "]</b></color></fontsize><color=0xFFFF6600>"
+    - - - bold
+        - true
+      - - color
+        - - 1.0
+          - 1.0
+          - 0.8
+      - - fontsize
+        - 12
+      - - italic
+        - false
+      - - post
+        - "]"
       - - pre
-        - " <fontsize=12><color=0xFFFFFFCC><b>["
+        - " ["
       - - state
         - 1
       - - type
@@ -1809,32 +1829,62 @@ shipLabels:
       - - underline
         - false
   - - pilot name
-    - - - post
-        - "</b></color></fontsize><color=0xFFFF6600>"
+    - - - bold
+        - true
+      - - color
+        - - 1.0
+          - 1.0
+          - 1.0
+      - - fontsize
+        - 12
+      - - italic
+        - false
+      - - post
+        - " -"
       - - pre
-        - " <fontsize=12><color=0xFFFFFFFF><b>"
+        - " "
       - - state
         - 1
       - - type
         - pilot name
   - - ship name
-    - - - post
-        - "</i></color></fontsize><color=0xFFFF6600>"
+    - - - bold
+        - false
+      - - color
+        - null
+      - - fontsize
+        - 10
+      - - italic
+        - false
+      - - post
+        - "'"
       - - pre
-        - " <fontsize=11><color=0xFFFFFFCC><i>"
+        - " '"
       - - state
         - 0
       - - type
         - ship name
   - - ship type
-    - - - post
-        - "</u></b></color></fontsize><color=0xFFFF6600>"
+    - - - bold
+        - true
+      - - color
+        - - 1.0
+          - 0.8
+          - 0.4
+      - - fontsize
+        - 14
+      - - italic
+        - false
+      - - post
+        - ""
       - - pre
-        - " <fontsize=14><color=0xFFFFCC66><b><u>"
+        - " "
       - - state
         - 1
       - - type
         - ship type
+      - - underline
+        - true
 stateBlinks:
   - - background_13
     - false
