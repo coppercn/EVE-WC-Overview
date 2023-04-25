@@ -8,12 +8,12 @@ backgroundOrder:
   - 13
   - 44
   - 52
+  - 19
+  - 18
   - 51
   - 9
   - 50
   - 53
-  - 19
-  - 18
   - 49
   - 10
   - 17
@@ -137,10 +137,15 @@ presets:
           - 180
           - 185
           - 237
+          - 279
           - 286
           - 287
+          - 288
+          - 297
+          - 298
           - 306
           - 310
+          - 319
           - 324
           - 335
           - 337
@@ -541,7 +546,6 @@ presets:
           - 2017
           - 2020
           - 4028
-          - 4033
           - 4034
           - 4035
           - 4036
@@ -551,8 +555,16 @@ presets:
           - 4081
           - 4088
           - 4093
+          - 4105
+          - 4106
           - 4107
           - 4137
+          - 4431
+          - 4432
+          - 4433
+          - 4434
+          - 4494
+          - 4501
   - - <color=0xFFFF6666>✯ --- 作战：基本（+敌对 -NPC）</color>
     - - - alwaysShownStates
         - []
@@ -984,10 +996,12 @@ presets:
           - 37
           - 45
           - 48
+          - 49
           - 50
           - 51
           - 52
           - 53
+          - 66
       - - groups
         - - 6
           - 10
@@ -1910,7 +1924,7 @@ stateColorsNameList:
   - - background_16
     - darkBlue
   - - background_18
-    - red
+    - orange
   - - background_20
     - white
   - - background_21
@@ -1918,7 +1932,7 @@ stateColorsNameList:
   - - background_44
     - red
   - - background_45
-    - blue
+    - darkTurquoise
   - - background_48
     - white
   - - background_49
@@ -1928,10 +1942,16 @@ stateColorsNameList:
   - - background_51
     - orange
   - - background_52
-    - orange
+    - red
+  - - background_66
+    - blue
   - - background_9
     - orange
+  - - flag_45
+    - darkTurquoise
   - - flag_48
+    - white
+  - - flag_49
     - white
 tabSetup:
   - - 0

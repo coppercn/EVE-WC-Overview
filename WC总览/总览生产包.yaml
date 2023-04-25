@@ -8,12 +8,12 @@ backgroundOrder:
   - 13
   - 44
   - 52
+  - 19
+  - 18
   - 51
   - 9
   - 50
   - 53
-  - 19
-  - 18
   - 49
   - 10
   - 17
@@ -282,7 +282,7 @@ presets:
           - 4093
           - 4107
           - 4137
-  - - <color=0xFF33FFFF>☭ 生产：刷怪</color>
+  - - <color=0xFF33FFFF>☭ 生产：任务/深渊</color>
     - - - alwaysShownStates
         - - 11
       - - filteredStates
@@ -311,10 +311,12 @@ presets:
           - 180
           - 185
           - 186
+          - 226
           - 237
           - 279
           - 286
           - 287
+          - 288
           - 297
           - 298
           - 306
@@ -325,6 +327,7 @@ presets:
           - 337
           - 358
           - 361
+          - 365
           - 366
           - 380
           - 381
@@ -677,9 +680,27 @@ presets:
           - 1766
           - 1767
           - 1768
+          - 1788
+          - 1789
+          - 1790
+          - 1791
+          - 1792
+          - 1793
+          - 1794
+          - 1795
+          - 1796
+          - 1797
+          - 1798
+          - 1799
+          - 1800
           - 1803
+          - 1804
+          - 1805
+          - 1806
+          - 1807
           - 1813
           - 1814
+          - 1872
           - 1876
           - 1878
           - 1879
@@ -716,8 +737,16 @@ presets:
           - 4081
           - 4088
           - 4093
+          - 4105
+          - 4106
           - 4107
           - 4137
+          - 4431
+          - 4432
+          - 4433
+          - 4434
+          - 4494
+          - 4501
   - - <color=0xFF33FFFF>☭ 生产：挖矿</color>
     - - - alwaysShownStates
         - []
@@ -1363,7 +1392,7 @@ stateColorsNameList:
   - - background_16
     - darkBlue
   - - background_18
-    - red
+    - orange
   - - background_20
     - white
   - - background_21
@@ -1371,7 +1400,7 @@ stateColorsNameList:
   - - background_44
     - red
   - - background_45
-    - blue
+    - darkTurquoise
   - - background_48
     - white
   - - background_49
@@ -1381,10 +1410,16 @@ stateColorsNameList:
   - - background_51
     - orange
   - - background_52
-    - orange
+    - red
+  - - background_66
+    - blue
   - - background_9
     - orange
+  - - flag_45
+    - darkTurquoise
   - - flag_48
+    - white
+  - - flag_49
     - white
 tabSetup:
   - - 0

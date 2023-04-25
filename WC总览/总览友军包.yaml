@@ -8,12 +8,12 @@ backgroundOrder:
   - 13
   - 44
   - 52
+  - 19
+  - 18
   - 51
   - 9
   - 50
   - 53
-  - 19
-  - 18
   - 49
   - 10
   - 17
@@ -332,6 +332,7 @@ presets:
           - 51
           - 52
           - 53
+          - 66
       - - groups
         - - 6
           - 10
@@ -850,7 +851,7 @@ stateColorsNameList:
   - - background_16
     - darkBlue
   - - background_18
-    - red
+    - orange
   - - background_20
     - white
   - - background_21
@@ -858,7 +859,7 @@ stateColorsNameList:
   - - background_44
     - red
   - - background_45
-    - blue
+    - darkTurquoise
   - - background_48
     - white
   - - background_49
@@ -868,10 +869,16 @@ stateColorsNameList:
   - - background_51
     - orange
   - - background_52
-    - orange
+    - red
+  - - background_66
+    - blue
   - - background_9
     - orange
+  - - flag_45
+    - darkTurquoise
   - - flag_48
+    - white
+  - - flag_49
     - white
 tabSetup:
   - - 0
