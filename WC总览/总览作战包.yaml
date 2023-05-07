@@ -565,6 +565,8 @@ presets:
           - 4434
           - 4494
           - 4501
+          - 4547
+          - 4549
   - - <color=0xFFFF6666>✯ --- 作战：基本（+敌对 -NPC）</color>
     - - - alwaysShownStates
         - []
@@ -670,6 +672,8 @@ presets:
           - 4093
           - 4107
           - 4137
+          - 4547
+          - 4549
   - - <color=0xFFFF6666>✯ = 作战：只有舰船</color>
     - - - alwaysShownStates
         - []
@@ -975,6 +979,8 @@ presets:
           - 4093
           - 4107
           - 4137
+          - 4547
+          - 4549
   - - <color=0xFFFF6666>✯ 作战：宣战</color>
     - - - alwaysShownStates
         - - 13
@@ -1232,13 +1238,19 @@ presets:
           - 4093
           - 4107
           - 4137
+          - 4547
+          - 4549
   - - <color=0xFFFF6666>✯ 作战：隐秘行动</color>
     - - - alwaysShownStates
         - []
       - - filteredStates
         - []
       - - groups
-        - - 10
+        - - 6
+          - 7
+          - 8
+          - 9
+          - 10
           - 12
           - 14
           - 15
@@ -1755,8 +1767,28 @@ presets:
           - 4081
           - 4088
           - 4093
+          - 4094
+          - 4100
+          - 4105
+          - 4106
           - 4107
           - 4137
+          - 4161
+          - 4431
+          - 4432
+          - 4433
+          - 4434
+          - 4477
+          - 4494
+          - 4499
+          - 4501
+          - 4513
+          - 4514
+          - 4515
+          - 4516
+          - 4547
+          - 4548
+          - 4549
 shipLabelOrder:
   - ship type
   - alliance
