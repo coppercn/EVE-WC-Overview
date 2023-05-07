@@ -105,6 +105,7 @@ flagStates:
   - 53
 overviewColumns:
   - ALLIANCE
+  - ANGULARVELOCITY
   - DISTANCE
   - ICON
   - NAME
@@ -585,6 +586,8 @@ presets:
           - 4081
           - 4088
           - 4093
+          - 4547
+          - 4549
   - - <color=0xFFFFFF66>✜ 目标：[S/M]轻拦/重拦</color>
     - - - alwaysShownStates
         - []
@@ -1332,6 +1335,8 @@ presets:
           - 2016
           - 2017
           - 4081
+          - 4547
+          - 4549
   - - <color=0xFFFFFF66>✜ 目标：[M]战列巡洋舰</color>
     - - - alwaysShownStates
         - []
@@ -1775,7 +1780,6 @@ presets:
           - 1929
           - 1956
           - 1972
-          - 1981
           - 1982
           - 1991
           - 1997
@@ -1805,6 +1809,8 @@ presets:
           - 4434
           - 4494
           - 4501
+          - 4547
+          - 4549
   - - <color=0xFF66CCFF>✪ = 友军：舰队</color>
     - - - alwaysShownStates
         - - 11
@@ -2380,6 +2386,8 @@ presets:
           - 4093
           - 4107
           - 4137
+          - 4547
+          - 4549
   - - <color=0xFFFFFF66>✜ 目标：[M]指挥舰/T3C</color>
     - - - alwaysShownStates
         - []
@@ -2712,6 +2720,8 @@ presets:
           - 4093
           - 4107
           - 4137
+          - 4547
+          - 4549
   - - <color=0xFFFFFF66>✜ 目标：[XL]泰坦</color>
     - - - alwaysShownStates
         - []
@@ -2789,6 +2799,7 @@ presets:
           - 14
           - 15
           - 16
+          - 45
       - - filteredStates
         - - 9
           - 10
@@ -2892,10 +2903,13 @@ presets:
           - 2016
           - 2017
           - 2020
+          - 4079
           - 4088
           - 4093
           - 4107
           - 4137
+          - 4547
+          - 4549
   - - <color=0xFFFFFF66>✜ 目标：[XL]所有旗舰</color>
     - - - alwaysShownStates
         - []
@@ -3496,7 +3510,11 @@ presets:
       - - filteredStates
         - []
       - - groups
-        - - 10
+        - - 6
+          - 7
+          - 8
+          - 9
+          - 10
           - 12
           - 14
           - 15
@@ -4013,8 +4031,28 @@ presets:
           - 4081
           - 4088
           - 4093
+          - 4094
+          - 4100
+          - 4105
+          - 4106
           - 4107
           - 4137
+          - 4161
+          - 4431
+          - 4432
+          - 4433
+          - 4434
+          - 4477
+          - 4494
+          - 4499
+          - 4501
+          - 4513
+          - 4514
+          - 4515
+          - 4516
+          - 4547
+          - 4548
+          - 4549
   - - <color=0xFFFFFF66>✜ 目标：[M]侦察</color>
     - - - alwaysShownStates
         - []
@@ -4068,13 +4106,13 @@ presets:
           - 898
           - 900
 shipLabelOrder:
+  - pilot name
   - ship type
+  - linebreak
+  - ship name
   - corporation
   - alliance
   - null
-  - linebreak
-  - pilot name
-  - ship name
 shipLabels:
   - - null
     - - - bold
@@ -4084,9 +4122,9 @@ shipLabels:
       - - italic
         - false
       - - post
-        - "<color=0xffFF6600>"
+        - ""
       - - pre
-        - "<color=0xffFFFFFF>]"
+        - "<color=0xffFFFFFF>]<color=0xffFF6600>"
       - - state
         - 1
       - - type
@@ -4097,9 +4135,9 @@ shipLabels:
     - - - fontsize
         - 12
       - - post
-        - <color=0xffFF6600>
+        - "<color=0xffFF6600>"
       - - pre
-        - ", <color=0xff6666FF>"
+        - "<color=0xffFFFFFF>, <color=0xff6666FF>"
       - - state
         - 1
       - - type
@@ -4110,7 +4148,7 @@ shipLabels:
       - - post
         - ""
       - - pre
-        - " <color=0xffFFFFFF>[<color=0x00ff00FF00>"
+        - "<color=0xffFFFFFF>[<color=0x00ff00FF00>"
       - - state
         - 1
       - - type
@@ -4138,9 +4176,9 @@ shipLabels:
     - - - fontsize
         - 12
       - - post
-        - "<color=0xffFF6600>"
+        - <color=0xffFF6600>
       - - pre
-        - "<color=0xffFFFFFF>"
+        - <color=0xffFFFFFF>
       - - state
         - 1
       - - type
@@ -4151,18 +4189,18 @@ shipLabels:
       - - post
         - "'<color=0xffFF6600>"
       - - pre
-        - " <color=0xbfFFFFFF>'"
+        - <color=0xbfFFFFFF>'
       - - state
-        - 0
+        - 1
       - - type
         - ship name
   - - ship type
     - - - fontsize
         - 12
       - - post
-        - "<color=0xffFF6600>"
+        - <color=0xffFFFFFF>)<color=0xffFF6600>
       - - pre
-        - "<color=0xffFFFF00>"
+        - <color=0xffFFFFFF>(<color=0xffFFFFFF>
       - - state
         - 1
       - - type
