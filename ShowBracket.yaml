@@ -4154,11 +4154,10 @@ presets:
 shipLabelOrder:
   - pilot name
   - ship type
-  - linebreak
-  - ship name
   - corporation
   - alliance
   - null
+  - ship name
 shipLabels:
   - - null
     - - - bold
@@ -4172,7 +4171,7 @@ shipLabels:
       - - pre
         - "<color=0xffFFFFFF>]<color=0xffFF6600>"
       - - state
-        - 1
+        - 0
       - - type
         - null
       - - underline
@@ -4181,11 +4180,11 @@ shipLabels:
     - - - fontsize
         - 12
       - - post
-        - "<color=0xffFF6600>"
+        - <color=0xffFF6600>
       - - pre
         - "<color=0xffFFFFFF>, <color=0xff6666FF>"
       - - state
-        - 1
+        - 0
       - - type
         - alliance
   - - corporation
@@ -4194,39 +4193,20 @@ shipLabels:
       - - post
         - ""
       - - pre
-        - "<color=0xffFFFFFF>[<color=0x00ff00FF00>"
+        - " <color=0xffFFFFFF>[<color=0x00ff00FF00>"
       - - state
-        - 1
+        - 0
       - - type
         - corporation
-  - - linebreak
-    - - - bold
-        - false
-      - - color
-        - null
-      - - fontsize
-        - null
-      - - italic
-        - false
-      - - post
-        - null
-      - - pre
-        - null
-      - - state
-        - null
-      - - type
-        - linebreak
-      - - underline
-        - false
   - - pilot name
     - - - fontsize
         - 12
       - - post
-        - <color=0xffFF6600>
+        - ""
       - - pre
-        - <color=0xffFFFFFF>
+        - ""
       - - state
-        - 1
+        - 0
       - - type
         - pilot name
   - - ship name
@@ -4235,18 +4215,18 @@ shipLabels:
       - - post
         - "'<color=0xffFF6600>"
       - - pre
-        - <color=0xbfFFFFFF>'
+        - " <color=0xbfFFFFFF>'"
       - - state
-        - 1
+        - 0
       - - type
         - ship name
   - - ship type
     - - - fontsize
         - 12
       - - post
-        - <color=0xffFFFFFF>)<color=0xffFF6600>
+        - "<color=0xffFFFFFF>)<color=0xffFF6600>"
       - - pre
-        - <color=0xffFFFFFF>(<color=0xffFFFFFF>
+        - "<color=0xffFFFFFF>(<color=0xffFFFF00>"
       - - state
         - 1
       - - type
@@ -4368,7 +4348,7 @@ tabSetup:
       - - name
         - ㅤ目标ㅤ
       - - overview
-        - <color=0xFFFFFF66>✜ 目标：[XL]所有旗舰</color>
+        - <color=0xFFFFFF66>✜ 目标：[D]所有无人机（+铁骑）</color>
       - - tabColumnOrder
         - - ICON
           - TAG
