@@ -208,6 +208,7 @@ presets:
           - 2016
           - 2017
           - 4088
+          - 4594
   - - ⌘ 图标：作战/目标/友军（+无人机 -残骸）
     - - - alwaysShownStates
         - []
@@ -682,6 +683,7 @@ presets:
           - 4574
           - 4576
           - 4577
+          - 4594
   - - <color=0xFFFD96CF>※ D-Scan：收割（+无人机）</color>
     - - - alwaysShownStates
         - []
@@ -767,6 +769,7 @@ presets:
           - 2016
           - 2017
           - 4088
+          - 4594
   - - ⌘ 图标：作战/目标/友军（-无人机 -残骸）
     - - - alwaysShownStates
         - []
@@ -1231,6 +1234,7 @@ presets:
           - 4574
           - 4576
           - 4577
+          - 4594
   - - ⌘ 图标：生产
     - - - alwaysShownStates
         - []
@@ -1745,6 +1749,7 @@ presets:
           - 4574
           - 4576
           - 4577
+          - 4594
   - - ⌘ 图标：所有
     - - - alwaysShownStates
         - []
@@ -2302,6 +2307,7 @@ presets:
           - 4574
           - 4576
           - 4577
+          - 4594
   - - <color=0xFFFD96CF>※ D-Scan：防御</color>
     - - - alwaysShownStates
         - []
@@ -2369,6 +2375,7 @@ presets:
           - 2016
           - 2017
           - 4088
+          - 4594
   - - <color=0xFFFFCCFF>✈ 航行：空间站</color>
     - - - alwaysShownStates
         - []
@@ -2886,6 +2893,7 @@ presets:
           - 4574
           - 4576
           - 4577
+          - 4594
   - - <color=0xFFFD96CF>※ D-Scan：收割（-无人机）</color>
     - - - alwaysShownStates
         - []
@@ -2961,6 +2969,7 @@ presets:
           - 2016
           - 2017
           - 4088
+          - 4594
   - - <color=0xFF66FF66>➲ 跑蛋! </color>
     - - - alwaysShownStates
         - []

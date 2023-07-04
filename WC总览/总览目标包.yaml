@@ -192,6 +192,7 @@ presets:
           - 485
           - 863
           - 864
+          - 4594
   - - <color=0xFFFFFF66>✜ 目标：[XS]蛋</color>
     - - - alwaysShownStates
         - []
