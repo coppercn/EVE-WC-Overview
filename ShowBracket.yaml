@@ -157,6 +157,7 @@ presets:
           - 1538
           - 1548
           - 4088
+          - 4594
   - - <color=0xFFFFFF66>✜ 目标：[D]铁骑舰载机</color>
     - - - alwaysShownStates
         - []
@@ -310,6 +311,7 @@ presets:
           - 4088
           - 4093
           - 4107
+          - 4594
   - - <color=0xFFFF6666>✯ 作战：AT赛</color>
     - - - alwaysShownStates
         - []
@@ -322,10 +324,10 @@ presets:
           - 27
           - 28
           - 90
+          - 237
           - 324
           - 358
           - 361
-          - 380
           - 381
           - 419
           - 420
@@ -349,7 +351,6 @@ presets:
           - 1005
           - 1149
           - 1201
-          - 1202
           - 1274
           - 1275
           - 1305
@@ -623,6 +624,7 @@ presets:
           - 485
           - 863
           - 864
+          - 4594
   - - <color=0xFFFFFF66>✜ 目标：[XL]大航/泰坦</color>
     - - - alwaysShownStates
         - []
@@ -1139,6 +1141,7 @@ presets:
           - 4574
           - 4576
           - 4577
+          - 4594
   - - <color=0xFFFFFF66>✜ 目标：[S]指挥驱逐舰</color>
     - - - alwaysShownStates
         - []
@@ -1840,6 +1843,7 @@ presets:
           - 4574
           - 4576
           - 4577
+          - 4594
   - - <color=0xFF66CCFF>✪ = 友军：舰队</color>
     - - - alwaysShownStates
         - - 11
@@ -1941,6 +1945,7 @@ presets:
           - 4093
           - 4107
           - 4137
+          - 4594
   - - <color=0xFF66CCFF>✪ 友军：[XL]无畏</color>
     - - - alwaysShownStates
         - - 11
@@ -1977,6 +1982,7 @@ presets:
           - 864
           - 1548
           - 4088
+          - 4594
   - - <color=0xFFFF6666>✯ = 作战：只有舰船</color>
     - - - alwaysShownStates
         - []
@@ -2035,6 +2041,7 @@ presets:
           - 1538
           - 1972
           - 2001
+          - 4594
   - - <color=0xFFFFFF66>✜ 目标：[XL]FAX</color>
     - - - alwaysShownStates
         - []
@@ -2417,6 +2424,7 @@ presets:
           - 4137
           - 4547
           - 4549
+          - 4594
   - - <color=0xFFFFFF66>✜ 目标：[M]指挥舰/T3C</color>
     - - - alwaysShownStates
         - []
@@ -2751,6 +2759,7 @@ presets:
           - 4137
           - 4547
           - 4549
+          - 4594
   - - <color=0xFFFFFF66>✜ 目标：[XL]泰坦</color>
     - - - alwaysShownStates
         - []
@@ -2939,6 +2948,7 @@ presets:
           - 4137
           - 4547
           - 4549
+          - 4594
   - - <color=0xFFFFFF66>✜ 目标：[XL]所有旗舰</color>
     - - - alwaysShownStates
         - []
@@ -2963,6 +2973,7 @@ presets:
           - 902
           - 941
           - 1538
+          - 4594
   - - <color=0xFFFF6666>✯ = 作战：小队战</color>
     - - - alwaysShownStates
         - - 11
@@ -3068,6 +3079,7 @@ presets:
           - 4093
           - 4107
           - 4137
+          - 4594
   - - <color=0xFF33FFFF>☭ 生产：任务/深渊</color>
     - - - alwaysShownStates
         - - 11
@@ -3541,6 +3553,7 @@ presets:
           - 4574
           - 4576
           - 4577
+          - 4594
   - - <color=0xFFFF6666>✯ 作战：隐秘行动</color>
     - - - alwaysShownStates
         - []
@@ -4099,6 +4112,7 @@ presets:
           - 4574
           - 4576
           - 4577
+          - 4594
   - - <color=0xFFFFFF66>✜ 目标：[M]侦察</color>
     - - - alwaysShownStates
         - []
