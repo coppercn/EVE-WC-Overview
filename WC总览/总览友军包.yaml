@@ -408,6 +408,8 @@ presets:
           - 4093
           - 4107
           - 4137
+          - 4477
+          - 4499
           - 4594
   - - <color=0xFF66CCFF>✪ 友军：[XL]大航/泰坦</color>
     - - - alwaysShownStates
@@ -640,9 +642,12 @@ presets:
           - 4093
           - 4107
           - 4137
+          - 4477
+          - 4499
           - 4547
           - 4549
           - 4594
+          - 4644
   - - <color=0xFF66CCFF>✪ 友军：[XL]所有旗舰</color>
     - - - alwaysShownStates
         - - 11
