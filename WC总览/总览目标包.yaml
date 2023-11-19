@@ -1,15 +1,15 @@
 backgroundOrder:
   - 11
+  - 19
+  - 18
+  - 44
+  - 45
   - 12
   - 14
   - 15
   - 16
-  - 45
   - 13
-  - 44
   - 52
-  - 19
-  - 18
   - 51
   - 9
   - 50
@@ -18,9 +18,10 @@ backgroundOrder:
   - 10
   - 17
   - 20
-  - 48
   - 21
+  - 48
   - 66
+  - 68
 backgroundStates:
   - 9
   - 10
@@ -64,11 +65,12 @@ flagOrder:
   - 14
   - 15
   - 16
-  - 45
   - 13
   - 44
+  - 45
   - 52
   - 51
+  - 68
   - 9
   - 50
   - 53
@@ -103,6 +105,7 @@ flagStates:
   - 51
   - 52
   - 53
+  - 68
 overviewColumns:
   - ALLIANCE
   - DISTANCE
@@ -113,7 +116,10 @@ overviewColumns:
 presets:
   - - <color=0xFFFFFF66>✜ 目标：[M]巡洋舰</color>
     - - - alwaysShownStates
-        - []
+        - - 13
+          - 18
+          - 19
+          - 44
       - - filteredStates
         - - 11
           - 12
@@ -134,7 +140,12 @@ presets:
           - 906
           - 963
   - - <color=0xFFFFFF66>✜ 目标：[XL]大航</color>
-    - - - filteredStates
+    - - - alwaysShownStates
+        - - 13
+          - 18
+          - 19
+          - 44
+      - - filteredStates
         - - 11
           - 12
           - 14
@@ -149,7 +160,10 @@ presets:
           - 864
   - - <color=0xFFFFFF66>✜ 目标：[XL]小航</color>
     - - - alwaysShownStates
-        - []
+        - - 13
+          - 18
+          - 19
+          - 44
       - - filteredStates
         - - 11
           - 12
@@ -164,7 +178,12 @@ presets:
           - 863
           - 864
   - - <color=0xFFFFFF66>✜ 目标：[XL]大航/泰坦</color>
-    - - - filteredStates
+    - - - alwaysShownStates
+        - - 13
+          - 18
+          - 19
+          - 44
+      - - filteredStates
         - - 11
           - 12
           - 14
@@ -179,7 +198,12 @@ presets:
           - 863
           - 864
   - - <color=0xFFFFFF66>✜ 目标：[XL]无畏</color>
-    - - - filteredStates
+    - - - alwaysShownStates
+        - - 13
+          - 18
+          - 19
+          - 44
+      - - filteredStates
         - - 11
           - 12
           - 14
@@ -195,7 +219,10 @@ presets:
           - 4594
   - - <color=0xFFFFFF66>✜ 目标：[XS]蛋</color>
     - - - alwaysShownStates
-        - []
+        - - 13
+          - 18
+          - 19
+          - 44
       - - filteredStates
         - - 11
           - 12
@@ -210,7 +237,12 @@ presets:
           - 863
           - 864
   - - <color=0xFFFFFF66>✜ 目标：[S/M]轻拦/重拦</color>
-    - - - filteredStates
+    - - - alwaysShownStates
+        - - 13
+          - 18
+          - 19
+          - 44
+      - - filteredStates
         - - 11
           - 12
           - 14
@@ -228,7 +260,10 @@ presets:
           - 894
   - - <color=0xFFFFFF66>✜ 目标：[M]监视者级</color>
     - - - alwaysShownStates
-        - []
+        - - 13
+          - 18
+          - 19
+          - 44
       - - filteredStates
         - - 11
           - 12
@@ -244,7 +279,10 @@ presets:
           - 1972
   - - <color=0xFFFFFF66>✜ 目标：[M]指挥舰/T3C</color>
     - - - alwaysShownStates
-        - []
+        - - 13
+          - 18
+          - 19
+          - 44
       - - filteredStates
         - - 11
           - 12
@@ -261,7 +299,10 @@ presets:
           - 963
   - - <color=0xFFFFFF66>✜ 目标：[S/M]后勤</color>
     - - - alwaysShownStates
-        - []
+        - - 13
+          - 18
+          - 19
+          - 44
       - - filteredStates
         - - 11
           - 12
@@ -278,7 +319,12 @@ presets:
           - 1527
           - 1538
   - - <color=0xFFFFFF66>✜ 目标：[M]侦察</color>
-    - - - filteredStates
+    - - - alwaysShownStates
+        - - 13
+          - 18
+          - 19
+          - 44
+      - - filteredStates
         - - 11
           - 12
           - 14
@@ -293,7 +339,12 @@ presets:
           - 864
           - 906
   - - <color=0xFFFFFF66>✜ 目标：[M]战列巡洋舰</color>
-    - - - filteredStates
+    - - - alwaysShownStates
+        - - 13
+          - 18
+          - 19
+          - 44
+      - - filteredStates
         - - 11
           - 12
           - 14
@@ -309,7 +360,12 @@ presets:
           - 864
           - 1201
   - - <color=0xFFFFFF66>✜ 目标：[L]战列舰</color>
-    - - - filteredStates
+    - - - alwaysShownStates
+        - - 13
+          - 18
+          - 19
+          - 44
+      - - filteredStates
         - - 11
           - 12
           - 14
@@ -327,7 +383,10 @@ presets:
           - 900
   - - <color=0xFFFFFF66>✜ 目标：[S]护卫/驱逐</color>
     - - - alwaysShownStates
-        - []
+        - - 13
+          - 18
+          - 19
+          - 44
       - - filteredStates
         - - 11
           - 12
@@ -356,7 +415,12 @@ presets:
           - 1527
           - 1534
   - - <color=0xFFFFFF66>✜ 目标：[XL]泰坦</color>
-    - - - filteredStates
+    - - - alwaysShownStates
+        - - 13
+          - 18
+          - 19
+          - 44
+      - - filteredStates
         - - 11
           - 12
           - 14
@@ -371,7 +435,10 @@ presets:
           - 864
   - - <color=0xFFFFFF66>✜ 目标：[XL]FAX</color>
     - - - alwaysShownStates
-        - []
+        - - 13
+          - 18
+          - 19
+          - 44
       - - filteredStates
         - - 11
           - 12
@@ -536,11 +603,15 @@ stateBlinks:
     - true
   - - flag_44
     - true
+  - - flag_45
+    - true
   - - flag_50
     - false
   - - flag_51
     - true
   - - flag_52
+    - true
+  - - flag_68
     - true
   - - flag_9
     - true
@@ -549,16 +620,20 @@ stateColorsNameList:
     - white
   - - background_12
     - darkBlue
+  - - background_13
+    - orange
+  - - background_14
+    - darkBlue
   - - background_16
     - darkBlue
   - - background_18
-    - orange
+    - red
   - - background_20
     - white
   - - background_21
     - white
   - - background_44
-    - red
+    - turquoise
   - - background_45
     - darkTurquoise
   - - background_48
@@ -570,9 +645,11 @@ stateColorsNameList:
   - - background_51
     - orange
   - - background_52
-    - red
+    - orange
   - - background_66
     - blue
+  - - background_68
+    - black
   - - background_9
     - orange
   - - flag_45
