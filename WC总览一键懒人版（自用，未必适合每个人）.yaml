@@ -3,11 +3,11 @@ backgroundOrder:
   - 19
   - 18
   - 44
-  - 45
   - 12
   - 14
   - 15
   - 16
+  - 45
   - 13
   - 52
   - 51
@@ -568,7 +568,6 @@ presets:
           - 298
           - 306
           - 311
-          - 319
           - 324
           - 335
           - 337
@@ -726,7 +725,6 @@ presets:
           - 705
           - 706
           - 711
-          - 715
           - 755
           - 756
           - 757
@@ -734,7 +732,6 @@ presets:
           - 759
           - 760
           - 761
-          - 784
           - 789
           - 790
           - 791
@@ -1050,6 +1047,7 @@ presets:
           - 4655
           - 4656
           - 4673
+          - 4712
   - - <color=0xFFFFFF66>✜ 目标：[S]指挥驱逐舰</color>
     - - - alwaysShownStates
         - - 13
@@ -1342,7 +1340,6 @@ presets:
           - 298
           - 306
           - 310
-          - 319
           - 324
           - 335
           - 337
@@ -1789,6 +1786,8 @@ presets:
           - 4655
           - 4656
           - 4673
+          - 4712
+          - 4713
   - - <color=0xFF66CCFF>✪ = 友军：舰队</color>
     - - - alwaysShownStates
         - - 11
@@ -2513,7 +2512,6 @@ presets:
           - 31
           - 90
           - 237
-          - 286
           - 310
           - 324
           - 337
@@ -2681,7 +2679,6 @@ presets:
           - 902
           - 906
           - 920
-          - 925
           - 941
           - 959
           - 960
@@ -2734,7 +2731,6 @@ presets:
           - 2016
           - 2017
           - 2020
-          - 4073
           - 4079
           - 4081
           - 4088
@@ -3584,6 +3580,8 @@ presets:
           - 4655
           - 4656
           - 4673
+          - 4712
+          - 4713
   - - <color=0xFFFF6666>✯ 作战：隐秘行动</color>
     - - - alwaysShownStates
         - []
@@ -4158,6 +4156,7 @@ presets:
           - 4655
           - 4656
           - 4673
+          - 4713
   - - <color=0xFFFFFF66>✜ 目标：[M]侦察</color>
     - - - alwaysShownStates
         - - 13
@@ -4222,7 +4221,6 @@ presets:
 shipLabelOrder:
   - pilot name
   - ship type
-  - linebreak
   - ship name
   - corporation
   - alliance
@@ -4238,9 +4236,9 @@ shipLabels:
       - - post
         - ""
       - - pre
-        - "<color=0xffFFFFFF>]<color=0xffFF6600>"
+        - <color=0xffFFFFFF>]<color=0xffFF6600>
       - - state
-        - 1
+        - 0
       - - type
         - null
       - - underline
@@ -4249,11 +4247,11 @@ shipLabels:
     - - - fontsize
         - 12
       - - post
-        - "<color=0xffFF6600>"
+        - <color=0xffFF6600>
       - - pre
-        - "<color=0xffFFFFFF>, <color=0xff6666FF>"
+        - <color=0xffFFFFFF>, <color=0xff6666FF>
       - - state
-        - 1
+        - 0
       - - type
         - alliance
   - - corporation
@@ -4262,33 +4260,16 @@ shipLabels:
       - - post
         - ""
       - - pre
-        - "<color=0xffFFFFFF>[<color=0x00ff00FF00>"
+        - <color=0xffFFFFFF>[<color=0xff00FF00>
       - - state
-        - 1
+        - 0
       - - type
         - corporation
-  - - linebreak
-    - - - bold
-        - false
-      - - color
-        - null
-      - - fontsize
-        - null
-      - - italic
-        - false
-      - - post
-        - null
-      - - pre
-        - null
-      - - state
-        - null
-      - - type
-        - linebreak
-      - - underline
-        - false
   - - pilot name
-    - - - fontsize
-        - 12
+    - - - bold
+        - true
+      - - fontsize
+        - 13
       - - post
         - <color=0xffFF6600>
       - - pre
@@ -4305,16 +4286,18 @@ shipLabels:
       - - pre
         - <color=0xbfFFFFFF>'
       - - state
-        - 1
+        - 0
       - - type
         - ship name
   - - ship type
-    - - - fontsize
-        - 12
+    - - - bold
+        - true
+      - - fontsize
+        - 13
       - - post
         - <color=0xffFFFFFF>)<color=0xffFF6600>
       - - pre
-        - <color=0xffFFFFFF>(<color=0xffFFFFFF>
+        - <color=0xffFFFFFF>(<color=0xffFFFF00>
       - - state
         - 1
       - - type
@@ -4346,7 +4329,7 @@ stateColorsNameList:
   - - background_12
     - darkBlue
   - - background_13
-    - orange
+    - red
   - - background_14
     - darkBlue
   - - background_16
@@ -4358,7 +4341,7 @@ stateColorsNameList:
   - - background_21
     - white
   - - background_44
-    - turquoise
+    - orange
   - - background_45
     - darkTurquoise
   - - background_48
