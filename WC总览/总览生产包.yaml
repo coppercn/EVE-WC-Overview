@@ -3,11 +3,11 @@ backgroundOrder:
   - 19
   - 18
   - 44
-  - 45
   - 12
   - 14
   - 15
   - 16
+  - 45
   - 13
   - 52
   - 51
@@ -794,6 +794,8 @@ presets:
           - 4655
           - 4656
           - 4673
+          - 4712
+          - 4713
   - - <color=0xFF33FFFF>☭ 生产：挖矿</color>
     - - - alwaysShownStates
         - - 13
@@ -831,7 +833,6 @@ presets:
           - 298
           - 306
           - 311
-          - 319
           - 324
           - 335
           - 337
@@ -989,7 +990,6 @@ presets:
           - 705
           - 706
           - 711
-          - 715
           - 755
           - 756
           - 757
@@ -997,7 +997,6 @@ presets:
           - 759
           - 760
           - 761
-          - 784
           - 789
           - 790
           - 791
@@ -1313,6 +1312,7 @@ presets:
           - 4655
           - 4656
           - 4673
+          - 4712
 shipLabelOrder:
   - ship type
   - alliance
@@ -1482,7 +1482,7 @@ stateColorsNameList:
   - - background_12
     - darkBlue
   - - background_13
-    - orange
+    - red
   - - background_14
     - darkBlue
   - - background_16
@@ -1494,7 +1494,7 @@ stateColorsNameList:
   - - background_21
     - white
   - - background_44
-    - turquoise
+    - orange
   - - background_45
     - darkTurquoise
   - - background_48

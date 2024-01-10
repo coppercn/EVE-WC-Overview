@@ -3,11 +3,11 @@ backgroundOrder:
   - 19
   - 18
   - 44
-  - 45
   - 12
   - 14
   - 15
   - 16
+  - 45
   - 13
   - 52
   - 51
@@ -152,7 +152,6 @@ presets:
           - 298
           - 306
           - 310
-          - 319
           - 324
           - 335
           - 337
@@ -599,6 +598,8 @@ presets:
           - 4655
           - 4656
           - 4673
+          - 4712
+          - 4713
   - - <color=0xFFFF6666>✯ 作战：宣战</color>
     - - - alwaysShownStates
         - - 9
@@ -1001,7 +1002,6 @@ presets:
           - 31
           - 90
           - 237
-          - 286
           - 310
           - 324
           - 337
@@ -1169,7 +1169,6 @@ presets:
           - 902
           - 906
           - 920
-          - 925
           - 941
           - 959
           - 960
@@ -1222,7 +1221,6 @@ presets:
           - 2016
           - 2017
           - 2020
-          - 4073
           - 4079
           - 4081
           - 4088
@@ -1809,6 +1807,7 @@ presets:
           - 4655
           - 4656
           - 4673
+          - 4713
   - - <color=0xFFFF6666>✯ = 作战：只有舰船</color>
     - - - alwaysShownStates
         - - 13
@@ -2039,7 +2038,7 @@ stateColorsNameList:
   - - background_12
     - darkBlue
   - - background_13
-    - orange
+    - red
   - - background_14
     - darkBlue
   - - background_16
@@ -2051,7 +2050,7 @@ stateColorsNameList:
   - - background_21
     - white
   - - background_44
-    - turquoise
+    - orange
   - - background_45
     - darkTurquoise
   - - background_48
