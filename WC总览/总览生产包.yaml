@@ -1,27 +1,27 @@
 backgroundOrder:
   - 11
-  - 19
-  - 18
-  - 44
   - 12
   - 14
+  - 13
+  - 44
+  - 19
+  - 18
   - 15
   - 16
   - 45
-  - 13
   - 52
   - 51
+  - 68
   - 9
   - 50
   - 53
   - 49
   - 10
   - 17
+  - 48
   - 20
   - 21
-  - 48
   - 66
-  - 68
 backgroundStates:
   - 9
   - 10
@@ -44,6 +44,7 @@ backgroundStates:
   - 51
   - 52
   - 53
+  - 68
 columnOrder:
   - ICON
   - TAG
@@ -194,6 +195,9 @@ presets:
           - 1537
           - 1652
           - 1653
+          - 4777
+          - 4778
+          - 4779
   - - <color=0xFFFFFF66>✜ 目标：[D]铁骑舰载机</color>
     - - - alwaysShownStates
         - - 13
@@ -217,6 +221,9 @@ presets:
           - 1537
           - 1652
           - 1653
+          - 4777
+          - 4778
+          - 4779
   - - <color=0xFFFFFF66>✜ 目标：[XL]所有旗舰</color>
     - - - alwaysShownStates
         - - 13
@@ -755,6 +762,7 @@ presets:
           - 4037
           - 4053
           - 4073
+          - 4079
           - 4081
           - 4088
           - 4093
@@ -796,6 +804,11 @@ presets:
           - 4673
           - 4712
           - 4713
+          - 4736
+          - 4737
+          - 4744
+          - 4745
+          - 4771
   - - <color=0xFF33FFFF>☭ 生产：挖矿</color>
     - - - alwaysShownStates
         - - 13
@@ -829,6 +842,7 @@ presets:
           - 279
           - 286
           - 287
+          - 288
           - 297
           - 298
           - 306
@@ -1267,6 +1281,7 @@ presets:
           - 4037
           - 4053
           - 4073
+          - 4079
           - 4088
           - 4093
           - 4094
@@ -1313,6 +1328,16 @@ presets:
           - 4656
           - 4673
           - 4712
+          - 4736
+          - 4737
+          - 4744
+          - 4745
+          - 4755
+          - 4756
+          - 4757
+          - 4758
+          - 4759
+          - 4771
 shipLabelOrder:
   - ship type
   - alliance
@@ -1485,6 +1510,8 @@ stateColorsNameList:
     - red
   - - background_14
     - darkBlue
+  - - background_15
+    - darkBlue
   - - background_16
     - darkBlue
   - - background_18
@@ -1494,7 +1521,7 @@ stateColorsNameList:
   - - background_21
     - white
   - - background_44
-    - orange
+    - red
   - - background_45
     - darkTurquoise
   - - background_48
@@ -1510,7 +1537,7 @@ stateColorsNameList:
   - - background_66
     - blue
   - - background_68
-    - black
+    - orange
   - - background_9
     - orange
   - - flag_45

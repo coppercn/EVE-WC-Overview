@@ -1,27 +1,27 @@
 backgroundOrder:
   - 11
-  - 19
-  - 18
-  - 44
   - 12
   - 14
+  - 13
+  - 44
+  - 19
+  - 18
   - 15
   - 16
   - 45
-  - 13
   - 52
   - 51
+  - 68
   - 9
   - 50
   - 53
   - 49
   - 10
   - 17
+  - 48
   - 20
   - 21
-  - 48
   - 66
-  - 68
 backgroundStates:
   - 9
   - 10
@@ -44,6 +44,7 @@ backgroundStates:
   - 51
   - 52
   - 53
+  - 68
 columnOrder:
   - ICON
   - TAG
@@ -186,6 +187,9 @@ presets:
           - 1537
           - 1652
           - 1653
+          - 4777
+          - 4778
+          - 4779
   - - <color=0xFFFFFF66>✜ 目标：[D]所有无人机（+铁骑）</color>
     - - - alwaysShownStates
         - - 13
@@ -216,6 +220,9 @@ presets:
           - 1537
           - 1652
           - 1653
+          - 4777
+          - 4778
+          - 4779
   - - <color=0xFFFFFF66>✜ 目标：[XL]大航</color>
     - - - alwaysShownStates
         - - 13
@@ -325,6 +332,10 @@ presets:
           - 4093
           - 4107
           - 4594
+          - 4744
+          - 4777
+          - 4778
+          - 4779
   - - <color=0xFFFF6666>✯ 作战：AT赛</color>
     - - - alwaysShownStates
         - []
@@ -469,6 +480,7 @@ presets:
           - 4547
           - 4549
           - 4644
+          - 4744
   - - <color=0xFFFFFF66>✜ 目标：[S/M]轻拦/重拦</color>
     - - - alwaysShownStates
         - - 13
@@ -564,6 +576,7 @@ presets:
           - 279
           - 286
           - 287
+          - 288
           - 297
           - 298
           - 306
@@ -1002,6 +1015,7 @@ presets:
           - 4037
           - 4053
           - 4073
+          - 4079
           - 4088
           - 4093
           - 4094
@@ -1048,6 +1062,16 @@ presets:
           - 4656
           - 4673
           - 4712
+          - 4736
+          - 4737
+          - 4744
+          - 4745
+          - 4755
+          - 4756
+          - 4757
+          - 4758
+          - 4759
+          - 4771
   - - <color=0xFFFFFF66>✜ 目标：[S]指挥驱逐舰</color>
     - - - alwaysShownStates
         - - 13
@@ -1281,6 +1305,7 @@ presets:
           - 4547
           - 4549
           - 4644
+          - 4744
   - - <color=0xFFFFFF66>✜ 目标：[M]战列巡洋舰</color>
     - - - alwaysShownStates
         - - 13
@@ -1788,6 +1813,11 @@ presets:
           - 4673
           - 4712
           - 4713
+          - 4736
+          - 4737
+          - 4744
+          - 4745
+          - 4771
   - - <color=0xFF66CCFF>✪ = 友军：舰队</color>
     - - - alwaysShownStates
         - - 11
@@ -2381,6 +2411,7 @@ presets:
           - 1972
           - 1991
           - 2001
+          - 2015
           - 2016
           - 2017
           - 2020
@@ -2396,6 +2427,9 @@ presets:
           - 4549
           - 4594
           - 4644
+          - 4736
+          - 4744
+          - 4745
   - - <color=0xFFFFFF66>✜ 目标：[M]指挥舰/T3C</color>
     - - - alwaysShownStates
         - - 13
@@ -2512,6 +2546,7 @@ presets:
           - 31
           - 90
           - 237
+          - 288
           - 310
           - 324
           - 337
@@ -2743,6 +2778,9 @@ presets:
           - 4549
           - 4594
           - 4644
+          - 4736
+          - 4744
+          - 4745
   - - <color=0xFFFFFF66>✜ 目标：[XL]泰坦</color>
     - - - alwaysShownStates
         - - 13
@@ -2930,6 +2968,7 @@ presets:
           - 1704
           - 1972
           - 2001
+          - 2015
           - 2016
           - 2017
           - 2020
@@ -2944,6 +2983,9 @@ presets:
           - 4549
           - 4594
           - 4644
+          - 4736
+          - 4744
+          - 4745
   - - <color=0xFFFFFF66>✜ 目标：[XL]所有旗舰</color>
     - - - alwaysShownStates
         - - 13
@@ -3085,6 +3127,10 @@ presets:
           - 4499
           - 4594
           - 4644
+          - 4736
+          - 4744
+          - 4745
+          - 4778
   - - <color=0xFF33FFFF>☭ 生产：任务/深渊</color>
     - - - alwaysShownStates
         - - 11
@@ -3541,6 +3587,7 @@ presets:
           - 4037
           - 4053
           - 4073
+          - 4079
           - 4081
           - 4088
           - 4093
@@ -3582,6 +3629,11 @@ presets:
           - 4673
           - 4712
           - 4713
+          - 4736
+          - 4737
+          - 4744
+          - 4745
+          - 4771
   - - <color=0xFFFF6666>✯ 作战：隐秘行动</color>
     - - - alwaysShownStates
         - []
@@ -4156,7 +4208,21 @@ presets:
           - 4655
           - 4656
           - 4673
+          - 4712
           - 4713
+          - 4736
+          - 4737
+          - 4744
+          - 4745
+          - 4755
+          - 4756
+          - 4757
+          - 4758
+          - 4759
+          - 4771
+          - 4777
+          - 4778
+          - 4779
   - - <color=0xFFFFFF66>✜ 目标：[M]侦察</color>
     - - - alwaysShownStates
         - - 13
@@ -4332,6 +4398,8 @@ stateColorsNameList:
     - red
   - - background_14
     - darkBlue
+  - - background_15
+    - darkBlue
   - - background_16
     - darkBlue
   - - background_18
@@ -4341,7 +4409,7 @@ stateColorsNameList:
   - - background_21
     - white
   - - background_44
-    - orange
+    - red
   - - background_45
     - darkTurquoise
   - - background_48
@@ -4357,7 +4425,7 @@ stateColorsNameList:
   - - background_66
     - blue
   - - background_68
-    - black
+    - orange
   - - background_9
     - orange
   - - flag_45
