@@ -115,12 +115,9 @@ overviewColumns:
   - TYPE
   - VELOCITY
 presets:
-  - - <color=0xFFFFFF66>✜ 目标：[M]巡洋舰</color>
+  - - <color=0xFFFFFF66>✜ 目标：[L]战列舰</color>
     - - - alwaysShownStates
-        - - 13
-          - 18
-          - 19
-          - 44
+        - []
       - - filteredStates
         - - 11
           - 12
@@ -128,223 +125,46 @@ presets:
           - 15
           - 16
           - 21
-          - 45
+      - - groups
+        - - 27
+          - 381
+          - 898
+          - 900
+  - - <color=0xFFFFFF66>✜ 目标：[M]侦察</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 833
+          - 906
+  - - <color=0xFFFFFF66>✜ 目标：[M]巡洋舰</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
       - - groups
         - - 26
-          - 90
           - 358
           - 832
           - 833
-          - 863
-          - 864
           - 894
           - 906
           - 963
-  - - <color=0xFFFFFF66>✜ 目标：[XL]大航</color>
-    - - - alwaysShownStates
-        - - 13
-          - 18
-          - 19
-          - 44
-      - - filteredStates
-        - - 11
-          - 12
-          - 14
-          - 15
-          - 16
-          - 21
-          - 45
-      - - groups
-        - - 90
-          - 659
-          - 863
-          - 864
-  - - <color=0xFFFFFF66>✜ 目标：[XL]小航</color>
-    - - - alwaysShownStates
-        - - 13
-          - 18
-          - 19
-          - 44
-      - - filteredStates
-        - - 11
-          - 12
-          - 14
-          - 15
-          - 16
-          - 21
-          - 45
-      - - groups
-        - - 90
-          - 547
-          - 863
-          - 864
-  - - <color=0xFFFFFF66>✜ 目标：[XL]大航/泰坦</color>
-    - - - alwaysShownStates
-        - - 13
-          - 18
-          - 19
-          - 44
-      - - filteredStates
-        - - 11
-          - 12
-          - 14
-          - 15
-          - 16
-          - 21
-          - 45
-      - - groups
-        - - 30
-          - 90
-          - 659
-          - 863
-          - 864
-  - - <color=0xFFFFFF66>✜ 目标：[XL]无畏</color>
-    - - - alwaysShownStates
-        - - 13
-          - 18
-          - 19
-          - 44
-      - - filteredStates
-        - - 11
-          - 12
-          - 14
-          - 15
-          - 16
-          - 21
-          - 45
-      - - groups
-        - - 90
-          - 485
-          - 863
-          - 864
-          - 4594
-  - - <color=0xFFFFFF66>✜ 目标：[XS]蛋</color>
-    - - - alwaysShownStates
-        - - 13
-          - 18
-          - 19
-          - 44
-      - - filteredStates
-        - - 11
-          - 12
-          - 14
-          - 15
-          - 16
-          - 21
-          - 45
-      - - groups
-        - - 29
-          - 90
-          - 863
-          - 864
-  - - <color=0xFFFFFF66>✜ 目标：[S/M]轻拦/重拦</color>
-    - - - alwaysShownStates
-        - - 13
-          - 18
-          - 19
-          - 44
-      - - filteredStates
-        - - 11
-          - 12
-          - 14
-          - 15
-          - 16
-          - 21
-          - 45
-      - - groups
-        - - 90
-          - 361
-          - 541
-          - 548
-          - 863
-          - 864
-          - 894
-  - - <color=0xFFFFFF66>✜ 目标：[M]监视者级</color>
-    - - - alwaysShownStates
-        - - 13
-          - 18
-          - 19
-          - 44
-      - - filteredStates
-        - - 11
-          - 12
-          - 14
-          - 15
-          - 16
-          - 21
-          - 45
-      - - groups
-        - - 90
-          - 863
-          - 864
-          - 1972
-  - - <color=0xFFFFFF66>✜ 目标：[M]指挥舰/T3C</color>
-    - - - alwaysShownStates
-        - - 13
-          - 18
-          - 19
-          - 44
-      - - filteredStates
-        - - 11
-          - 12
-          - 14
-          - 15
-          - 16
-          - 21
-          - 45
-      - - groups
-        - - 90
-          - 540
-          - 863
-          - 864
-          - 963
-  - - <color=0xFFFFFF66>✜ 目标：[S/M]后勤</color>
-    - - - alwaysShownStates
-        - - 13
-          - 18
-          - 19
-          - 44
-      - - filteredStates
-        - - 11
-          - 12
-          - 14
-          - 15
-          - 16
-          - 21
-          - 45
-      - - groups
-        - - 90
-          - 832
-          - 863
-          - 864
-          - 1527
-          - 1538
-  - - <color=0xFFFFFF66>✜ 目标：[M]侦察</color>
-    - - - alwaysShownStates
-        - - 13
-          - 18
-          - 19
-          - 44
-      - - filteredStates
-        - - 11
-          - 12
-          - 14
-          - 15
-          - 16
-          - 21
-          - 45
-      - - groups
-        - - 90
-          - 833
-          - 863
-          - 864
-          - 906
+          - 5087
   - - <color=0xFFFFFF66>✜ 目标：[M]战列巡洋舰</color>
     - - - alwaysShownStates
-        - - 13
-          - 18
-          - 19
-          - 44
+        - []
       - - filteredStates
         - - 11
           - 12
@@ -352,20 +172,14 @@ presets:
           - 15
           - 16
           - 21
-          - 45
       - - groups
-        - - 90
-          - 419
+        - - 419
           - 540
-          - 863
-          - 864
           - 1201
-  - - <color=0xFFFFFF66>✜ 目标：[L]战列舰</color>
+          - 4902
+  - - <color=0xFFFFFF66>✜ 目标：[M]指挥舰/T3C</color>
     - - - alwaysShownStates
-        - - 13
-          - 18
-          - 19
-          - 44
+        - []
       - - filteredStates
         - - 11
           - 12
@@ -373,21 +187,54 @@ presets:
           - 15
           - 16
           - 21
-          - 45
       - - groups
-        - - 27
-          - 90
-          - 381
-          - 863
-          - 864
-          - 898
-          - 900
+        - - 540
+          - 963
+  - - <color=0xFFFFFF66>✜ 目标：[M]监视者级</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 1972
+  - - <color=0xFFFFFF66>✜ 目标：[S/M]后勤</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 832
+          - 1527
+          - 1538
+  - - <color=0xFFFFFF66>✜ 目标：[S/M]轻拦/重拦</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 361
+          - 541
+          - 548
+          - 894
+          - 4088
   - - <color=0xFFFFFF66>✜ 目标：[S]护卫/驱逐</color>
     - - - alwaysShownStates
-        - - 13
-          - 18
-          - 19
-          - 44
+        - []
       - - filteredStates
         - - 11
           - 12
@@ -395,11 +242,9 @@ presets:
           - 15
           - 16
           - 21
-          - 45
       - - groups
         - - 25
           - 31
-          - 90
           - 237
           - 324
           - 420
@@ -407,39 +252,15 @@ presets:
           - 830
           - 831
           - 834
-          - 863
-          - 864
           - 893
           - 1022
           - 1283
           - 1305
           - 1527
           - 1534
-  - - <color=0xFFFFFF66>✜ 目标：[XL]泰坦</color>
-    - - - alwaysShownStates
-        - - 13
-          - 18
-          - 19
-          - 44
-      - - filteredStates
-        - - 11
-          - 12
-          - 14
-          - 15
-          - 16
-          - 21
-          - 45
-      - - groups
-        - - 30
-          - 90
-          - 863
-          - 864
   - - <color=0xFFFFFF66>✜ 目标：[XL]FAX</color>
     - - - alwaysShownStates
-        - - 13
-          - 18
-          - 19
-          - 44
+        - []
       - - filteredStates
         - - 11
           - 12
@@ -447,12 +268,82 @@ presets:
           - 15
           - 16
           - 21
-          - 45
       - - groups
-        - - 90
-          - 863
-          - 864
-          - 1538
+        - - 1538
+  - - <color=0xFFFFFF66>✜ 目标：[XL]大航</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 659
+  - - <color=0xFFFFFF66>✜ 目标：[XL]大航/泰坦</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 30
+          - 659
+  - - <color=0xFFFFFF66>✜ 目标：[XL]小航</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 547
+  - - <color=0xFFFFFF66>✜ 目标：[XL]无畏</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 485
+          - 4594
+  - - <color=0xFFFFFF66>✜ 目标：[XL]泰坦</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 30
+  - - <color=0xFFFFFF66>✜ 目标：[XS]蛋</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 29
 shipLabelOrder:
   - ship type
   - alliance
