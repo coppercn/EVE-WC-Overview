@@ -325,7 +325,7 @@ stateColorsNameList:
 tabSetup:
   - - 0
     - - - bracket
-        - ⌘ 图标：所有
+        - ※ --- 图标：所有
       - - color
         - - 1.0
           - 0.8
@@ -351,7 +351,7 @@ tabSetup:
           - SIZE
   - - 1
     - - - bracket
-        - ⌘ 图标：所有
+        - ※ --- 图标：所有
       - - color
         - - 1.0
           - 0.4
@@ -377,7 +377,7 @@ tabSetup:
           - SIZE
   - - 2
     - - - bracket
-        - ⌘ 图标：所有
+        - ※ --- 图标：所有
       - - color
         - - 1.0
           - 1.0
@@ -403,7 +403,7 @@ tabSetup:
           - SIZE
   - - 3
     - - - bracket
-        - ⌘ 图标：生产
+        - ※ --- 图标：所有
       - - color
         - - 0.2
           - 1.0
@@ -429,7 +429,7 @@ tabSetup:
           - SIZE
   - - 4
     - - - bracket
-        - ⌘ 图标：所有
+        - ※ --- 图标：所有
       - - color
         - - 0.4
           - 0.8
@@ -455,7 +455,7 @@ tabSetup:
           - SIZE
   - - 5
     - - - bracket
-        - ⌘ 图标：所有
+        - ※ --- 图标：所有
       - - color
         - - 0.4
           - 1.0
@@ -481,7 +481,7 @@ tabSetup:
           - SIZE
   - - 6
     - - - bracket
-        - ⌘ 图标：所有
+        - ※ --- 图标：所有
       - - color
         - - 1.0
           - 0.0
