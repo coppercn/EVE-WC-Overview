@@ -4477,7 +4477,7 @@ tabSetup:
       - - name
         - ㅤ目标ㅤ
       - - overview
-        - <color=0xFFFFFF66>✜ 目标：[D]所有无人机（+铁骑）</color>
+        - <color=0xFFFFFF66>✜ 目标：[XL]所有旗舰</color>
       - - tabColumnOrder
         - - ICON
           - TAG
@@ -4503,7 +4503,7 @@ tabSetup:
       - - name
         - ㅤ生产ㅤ
       - - overview
-        - <color=0xFF33FFFF>☭ 生产：挖矿</color>
+        - <color=0xFF33FFFF>☭ 生产：任务/深渊</color>
       - - tabColumnOrder
         - - ICON
           - TAG
@@ -4529,7 +4529,7 @@ tabSetup:
       - - name
         - ㅤ友军ㅤ
       - - overview
-        - <color=0xFF66CCFF>✪ --- 友军：所有</color>
+        - <color=0xFF66CCFF>✪ = 友军：舰队</color>
       - - tabColumnOrder
         - - ICON
           - TAG
