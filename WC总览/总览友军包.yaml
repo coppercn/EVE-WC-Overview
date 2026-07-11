@@ -194,6 +194,7 @@ presets:
           - 4594
           - 4902
           - 5087
+          - 5120
   - - <color=0xFF66CCFF>✪ = 友军：舰队</color>
     - - - alwaysShownStates
         - - 11
@@ -275,6 +276,7 @@ presets:
           - 4594
           - 4902
           - 5087
+          - 5120
   - - <color=0xFF66CCFF>✪ 友军：[M]侦察</color>
     - - - alwaysShownStates
         - - 11
@@ -479,6 +481,7 @@ presets:
         - - 492
           - 547
           - 1538
+          - 5120
   - - <color=0xFF66CCFF>✪ 友军：[XL]所有旗舰</color>
     - - - alwaysShownStates
         - - 11
@@ -516,6 +519,7 @@ presets:
           - 941
           - 1538
           - 4594
+          - 5120
   - - <color=0xFF66CCFF>✪ 友军：[XL]无畏</color>
     - - - alwaysShownStates
         - - 11

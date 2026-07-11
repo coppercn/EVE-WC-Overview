@@ -217,6 +217,7 @@ presets:
           - 941
           - 1538
           - 4594
+          - 5120
   - - <color=0xFF33FFFF>☭ 生产：打捞/残骸</color>
     - - - alwaysShownStates
         - []
@@ -795,6 +796,7 @@ presets:
           - 5079
           - 5080
           - 5087
+          - 5120
   - - <color=0xFF33FFFF>☭ 生产：挖矿</color>
     - - - alwaysShownStates
         - []
@@ -1365,7 +1367,12 @@ presets:
           - 5078
           - 5079
           - 5080
+          - 5083
+          - 5084
+          - 5085
+          - 5086
           - 5087
+          - 5120
 shipLabelOrder:
   - ship type
   - alliance

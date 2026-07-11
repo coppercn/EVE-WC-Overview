@@ -307,6 +307,7 @@ presets:
           - 21
       - - groups
         - - 547
+          - 5120
   - - <color=0xFFFFFF66>✜ 目标：[XL]无畏</color>
     - - - alwaysShownStates
         - []
