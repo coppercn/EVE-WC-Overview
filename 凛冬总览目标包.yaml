@@ -1,0 +1,567 @@
+backgroundOrder:
+  - 11
+  - 12
+  - 14
+  - 13
+  - 44
+  - 19
+  - 18
+  - 15
+  - 16
+  - 45
+  - 52
+  - 51
+  - 68
+  - 9
+  - 50
+  - 53
+  - 49
+  - 10
+  - 17
+  - 48
+  - 20
+  - 21
+  - 66
+backgroundStates:
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 44
+  - 45
+  - 48
+  - 49
+  - 50
+  - 51
+  - 52
+  - 53
+  - 68
+columnOrder:
+  - ICON
+  - TAG
+  - DISTANCE
+  - NAME
+  - TYPE
+  - VELOCITY
+  - RADIALVELOCITY
+  - TRANSVERSALVELOCITY
+  - ANGULARVELOCITY
+  - ALLIANCE
+  - CORPORATION
+  - FACTION
+  - MILITIA
+  - SIZE
+flagOrder:
+  - 11
+  - 12
+  - 14
+  - 15
+  - 16
+  - 13
+  - 44
+  - 45
+  - 52
+  - 51
+  - 68
+  - 9
+  - 50
+  - 53
+  - 19
+  - 18
+  - 49
+  - 10
+  - 17
+  - 48
+  - 21
+  - 20
+  - 66
+flagStates:
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 44
+  - 45
+  - 48
+  - 49
+  - 50
+  - 51
+  - 52
+  - 53
+  - 68
+overviewColumns:
+  - ALLIANCE
+  - DISTANCE
+  - ICON
+  - NAME
+  - TYPE
+  - VELOCITY
+presets:
+  - - <color=0xFFFFFF66>✜ 目标：[L]战列舰</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 27
+          - 381
+          - 898
+          - 900
+  - - <color=0xFFFFFF66>✜ 目标：[M]侦察</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 833
+          - 906
+  - - <color=0xFFFFFF66>✜ 目标：[M]巡洋舰</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 26
+          - 358
+          - 832
+          - 833
+          - 894
+          - 906
+          - 963
+          - 5087
+  - - <color=0xFFFFFF66>✜ 目标：[M]战列巡洋舰</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 419
+          - 540
+          - 1201
+          - 4902
+  - - <color=0xFFFFFF66>✜ 目标：[M]指挥舰/T3C</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 540
+          - 963
+  - - <color=0xFFFFFF66>✜ 目标：[M]监视者级</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 1972
+  - - <color=0xFFFFFF66>✜ 目标：[S/M]后勤</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 832
+          - 1527
+          - 1538
+  - - <color=0xFFFFFF66>✜ 目标：[S/M]轻拦/重拦</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 361
+          - 541
+          - 548
+          - 894
+          - 4088
+  - - <color=0xFFFFFF66>✜ 目标：[S]护卫/驱逐</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 25
+          - 31
+          - 237
+          - 324
+          - 420
+          - 541
+          - 830
+          - 831
+          - 834
+          - 893
+          - 1022
+          - 1283
+          - 1305
+          - 1527
+          - 1534
+  - - <color=0xFFFFFF66>✜ 目标：[XL]FAX</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 1538
+  - - <color=0xFFFFFF66>✜ 目标：[XL]大航</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 659
+  - - <color=0xFFFFFF66>✜ 目标：[XL]大航/泰坦</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 30
+          - 659
+  - - <color=0xFFFFFF66>✜ 目标：[XL]小航</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 547
+          - 5120
+  - - <color=0xFFFFFF66>✜ 目标：[XL]无畏</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 485
+          - 4594
+  - - <color=0xFFFFFF66>✜ 目标：[XL]泰坦</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 30
+  - - <color=0xFFFFFF66>✜ 目标：[XS]蛋</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 29
+shipLabelOrder:
+  - ship type
+  - alliance
+  - corporation
+  - linebreak
+  - pilot name
+  - ship name
+  - null
+shipLabels:
+  - - null
+    - - - bold
+        - false
+      - - color
+        - null
+      - - fontsize
+        - null
+      - - italic
+        - false
+      - - post
+        - ""
+      - - pre
+        - ""
+      - - state
+        - 0
+      - - type
+        - null
+      - - underline
+        - false
+  - - alliance
+    - - - bold
+        - false
+      - - color
+        - - 1.0
+          - 0.8
+          - 0.4
+      - - fontsize
+        - 14
+      - - italic
+        - false
+      - - post
+        - "]"
+      - - pre
+        - " ["
+      - - state
+        - 1
+      - - type
+        - alliance
+  - - corporation
+    - - - bold
+        - true
+      - - color
+        - - 1.0
+          - 1.0
+          - 0.8
+      - - fontsize
+        - 12
+      - - italic
+        - false
+      - - post
+        - "]"
+      - - pre
+        - " ["
+      - - state
+        - 1
+      - - type
+        - corporation
+  - - linebreak
+    - - - bold
+        - false
+      - - color
+        - null
+      - - fontsize
+        - null
+      - - italic
+        - false
+      - - post
+        - null
+      - - pre
+        - null
+      - - state
+        - null
+      - - type
+        - linebreak
+      - - underline
+        - false
+  - - pilot name
+    - - - bold
+        - true
+      - - color
+        - - 1.0
+          - 1.0
+          - 1.0
+      - - fontsize
+        - 12
+      - - italic
+        - false
+      - - post
+        - " -"
+      - - pre
+        - " "
+      - - state
+        - 1
+      - - type
+        - pilot name
+  - - ship name
+    - - - bold
+        - false
+      - - color
+        - null
+      - - fontsize
+        - 10
+      - - italic
+        - false
+      - - post
+        - "'"
+      - - pre
+        - " '"
+      - - state
+        - 0
+      - - type
+        - ship name
+  - - ship type
+    - - - bold
+        - true
+      - - color
+        - - 1.0
+          - 0.8
+          - 0.4
+      - - fontsize
+        - 14
+      - - italic
+        - false
+      - - post
+        - ""
+      - - pre
+        - " "
+      - - state
+        - 1
+      - - type
+        - ship type
+      - - underline
+        - true
+stateBlinks:
+  - - background_13
+    - false
+  - - background_44
+    - false
+  - - flag_13
+    - true
+  - - flag_44
+    - true
+  - - flag_45
+    - true
+  - - flag_50
+    - false
+  - - flag_51
+    - true
+  - - flag_52
+    - true
+  - - flag_68
+    - true
+  - - flag_9
+    - true
+stateColorsNameList:
+  - - background_10
+    - white
+  - - background_12
+    - darkBlue
+  - - background_13
+    - red
+  - - background_14
+    - darkBlue
+  - - background_15
+    - darkBlue
+  - - background_16
+    - darkBlue
+  - - background_18
+    - red
+  - - background_20
+    - white
+  - - background_21
+    - white
+  - - background_44
+    - red
+  - - background_45
+    - darkTurquoise
+  - - background_48
+    - white
+  - - background_49
+    - white
+  - - background_50
+    - orange
+  - - background_51
+    - orange
+  - - background_52
+    - orange
+  - - background_66
+    - blue
+  - - background_68
+    - orange
+  - - background_9
+    - orange
+  - - flag_45
+    - darkTurquoise
+  - - flag_48
+    - white
+  - - flag_49
+    - white
+tabSetup:
+  - - 0
+    - - - bracket
+        - null
+      - - color
+        - null
+      - - name
+        - "<fontsize=12><color=0xFF66CCFF><b> •凛冬总览目标包加载完成！</b></color></fontsize>\n
+          <fontsize=12><color=0xFFFF6666><b>•最后请加载凛冬总览框架</b></color></fontsize>"
+      - - overview
+        - null
+userSettings: []

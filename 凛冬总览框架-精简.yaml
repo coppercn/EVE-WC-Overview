@@ -1,0 +1,508 @@
+backgroundOrder:
+  - 11
+  - 12
+  - 14
+  - 13
+  - 44
+  - 19
+  - 18
+  - 15
+  - 16
+  - 45
+  - 52
+  - 51
+  - 68
+  - 9
+  - 50
+  - 53
+  - 49
+  - 10
+  - 17
+  - 48
+  - 20
+  - 21
+  - 66
+backgroundStates:
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 44
+  - 45
+  - 48
+  - 49
+  - 50
+  - 51
+  - 52
+  - 53
+  - 68
+columnOrder:
+  - ICON
+  - TAG
+  - DISTANCE
+  - NAME
+  - TYPE
+  - VELOCITY
+  - RADIALVELOCITY
+  - TRANSVERSALVELOCITY
+  - ANGULARVELOCITY
+  - ALLIANCE
+  - CORPORATION
+  - FACTION
+  - MILITIA
+  - SIZE
+flagOrder:
+  - 11
+  - 12
+  - 14
+  - 15
+  - 16
+  - 13
+  - 44
+  - 45
+  - 52
+  - 51
+  - 68
+  - 9
+  - 50
+  - 53
+  - 19
+  - 18
+  - 49
+  - 10
+  - 17
+  - 48
+  - 21
+  - 20
+  - 66
+flagStates:
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 44
+  - 45
+  - 48
+  - 49
+  - 50
+  - 51
+  - 52
+  - 53
+  - 68
+overviewColumns:
+  - ALLIANCE
+  - DISTANCE
+  - ICON
+  - NAME
+  - TYPE
+  - VELOCITY
+shipLabelOrder:
+  - ship type
+  - alliance
+  - corporation
+  - linebreak
+  - pilot name
+  - ship name
+  - null
+shipLabels:
+  - - null
+    - - - bold
+        - false
+      - - color
+        - null
+      - - fontsize
+        - null
+      - - italic
+        - false
+      - - post
+        - ""
+      - - pre
+        - ""
+      - - state
+        - 0
+      - - type
+        - null
+      - - underline
+        - false
+  - - alliance
+    - - - bold
+        - false
+      - - color
+        - - 1.0
+          - 0.8
+          - 0.4
+      - - fontsize
+        - 14
+      - - italic
+        - false
+      - - post
+        - "]"
+      - - pre
+        - " ["
+      - - state
+        - 1
+      - - type
+        - alliance
+  - - corporation
+    - - - bold
+        - true
+      - - color
+        - - 1.0
+          - 1.0
+          - 0.8
+      - - fontsize
+        - 12
+      - - italic
+        - false
+      - - post
+        - "]"
+      - - pre
+        - " ["
+      - - state
+        - 1
+      - - type
+        - corporation
+  - - linebreak
+    - - - bold
+        - false
+      - - color
+        - null
+      - - fontsize
+        - null
+      - - italic
+        - false
+      - - post
+        - null
+      - - pre
+        - null
+      - - state
+        - null
+      - - type
+        - linebreak
+      - - underline
+        - false
+  - - pilot name
+    - - - bold
+        - true
+      - - color
+        - - 1.0
+          - 1.0
+          - 1.0
+      - - fontsize
+        - 12
+      - - italic
+        - false
+      - - post
+        - " -"
+      - - pre
+        - " "
+      - - state
+        - 1
+      - - type
+        - pilot name
+  - - ship name
+    - - - bold
+        - false
+      - - color
+        - null
+      - - fontsize
+        - 10
+      - - italic
+        - false
+      - - post
+        - "'"
+      - - pre
+        - " '"
+      - - state
+        - 0
+      - - type
+        - ship name
+  - - ship type
+    - - - bold
+        - true
+      - - color
+        - - 1.0
+          - 0.8
+          - 0.4
+      - - fontsize
+        - 14
+      - - italic
+        - false
+      - - post
+        - ""
+      - - pre
+        - " "
+      - - state
+        - 1
+      - - type
+        - ship type
+      - - underline
+        - true
+stateBlinks:
+  - - background_13
+    - false
+  - - background_44
+    - false
+  - - flag_13
+    - true
+  - - flag_44
+    - true
+  - - flag_45
+    - true
+  - - flag_50
+    - false
+  - - flag_51
+    - true
+  - - flag_52
+    - true
+  - - flag_68
+    - true
+  - - flag_9
+    - true
+stateColorsNameList:
+  - - background_10
+    - white
+  - - background_12
+    - darkBlue
+  - - background_13
+    - red
+  - - background_14
+    - darkBlue
+  - - background_15
+    - darkBlue
+  - - background_16
+    - darkBlue
+  - - background_18
+    - red
+  - - background_20
+    - white
+  - - background_21
+    - white
+  - - background_44
+    - red
+  - - background_45
+    - darkTurquoise
+  - - background_48
+    - white
+  - - background_49
+    - white
+  - - background_50
+    - orange
+  - - background_51
+    - orange
+  - - background_52
+    - orange
+  - - background_66
+    - blue
+  - - background_68
+    - orange
+  - - background_9
+    - orange
+  - - flag_45
+    - darkTurquoise
+  - - flag_48
+    - white
+  - - flag_49
+    - white
+tabSetup:
+  - - 0
+    - - - bracket
+        - ※ --- 图标：所有
+      - - color
+        - - 1.0
+          - 0.8
+          - 1.0
+      - - name
+        - "ㅤ✈ㅤ"
+      - - overview
+        - <color=0xFFFFCCFF>✈ 航行：空间站</color>
+      - - tabColumnOrder
+        - - ICON
+          - TAG
+          - DISTANCE
+          - NAME
+          - TYPE
+          - VELOCITY
+          - RADIALVELOCITY
+          - TRANSVERSALVELOCITY
+          - ANGULARVELOCITY
+          - ALLIANCE
+          - CORPORATION
+          - FACTION
+          - MILITIA
+          - SIZE
+  - - 1
+    - - - bracket
+        - ※ --- 图标：所有
+      - - color
+        - - 1.0
+          - 0.4
+          - 0.4
+      - - name
+        - "ㅤ✯ㅤ"
+      - - overview
+        - <color=0xFFFF6666>✯ --- 作战：基本（+敌对 +NPC）</color>
+      - - tabColumnOrder
+        - - ICON
+          - TAG
+          - DISTANCE
+          - NAME
+          - TYPE
+          - VELOCITY
+          - RADIALVELOCITY
+          - TRANSVERSALVELOCITY
+          - ANGULARVELOCITY
+          - ALLIANCE
+          - CORPORATION
+          - FACTION
+          - MILITIA
+          - SIZE
+  - - 2
+    - - - bracket
+        - ※ --- 图标：所有
+      - - color
+        - - 1.0
+          - 1.0
+          - 0.4
+      - - name
+        - "ㅤ✜ㅤ"
+      - - overview
+        - <color=0xFFFFFF66>✜ 目标：[D]所有无人机（+铁骑）</color>
+      - - tabColumnOrder
+        - - ICON
+          - TAG
+          - DISTANCE
+          - NAME
+          - TYPE
+          - VELOCITY
+          - RADIALVELOCITY
+          - TRANSVERSALVELOCITY
+          - ANGULARVELOCITY
+          - ALLIANCE
+          - CORPORATION
+          - FACTION
+          - MILITIA
+          - SIZE
+  - - 3
+    - - - bracket
+        - ※ --- 图标：所有
+      - - color
+        - - 0.2
+          - 1.0
+          - 1.0
+      - - name
+        - "ㅤ☭ㅤ"
+      - - overview
+        - <color=0xFF33FFFF>☭ 生产：打捞/残骸</color>
+      - - tabColumnOrder
+        - - ICON
+          - TAG
+          - DISTANCE
+          - NAME
+          - TYPE
+          - VELOCITY
+          - RADIALVELOCITY
+          - TRANSVERSALVELOCITY
+          - ANGULARVELOCITY
+          - ALLIANCE
+          - CORPORATION
+          - FACTION
+          - MILITIA
+          - SIZE
+  - - 4
+    - - - bracket
+        - ※ --- 图标：所有
+      - - color
+        - - 0.4
+          - 0.8
+          - 1.0
+      - - name
+        - "ㅤ✪ㅤ"
+      - - overview
+        - <color=0xFF66CCFF>✪ --- 友军：所有</color>
+      - - tabColumnOrder
+        - - ICON
+          - TAG
+          - DISTANCE
+          - NAME
+          - TYPE
+          - VELOCITY
+          - RADIALVELOCITY
+          - TRANSVERSALVELOCITY
+          - ANGULARVELOCITY
+          - ALLIANCE
+          - CORPORATION
+          - FACTION
+          - MILITIA
+          - SIZE
+  - - 5
+    - - - bracket
+        - ※ --- 图标：所有
+      - - color
+        - - 0.4
+          - 1.0
+          - 0.4
+      - - name
+        - "ㅤ➲ㅤ"
+      - - overview
+        - <color=0xFF66FF66>➲ 跑蛋! </color>
+      - - tabColumnOrder
+        - - ICON
+          - TAG
+          - DISTANCE
+          - NAME
+          - TYPE
+          - VELOCITY
+          - RADIALVELOCITY
+          - TRANSVERSALVELOCITY
+          - ANGULARVELOCITY
+          - ALLIANCE
+          - CORPORATION
+          - FACTION
+          - MILITIA
+          - SIZE
+  - - 6
+    - - - bracket
+        - ※ --- 图标：所有
+      - - color
+        - - 1.0
+          - 0.0
+          - 0.0
+      - - name
+        - "ㅤ♠ㅤ"
+      - - overview
+        - <color=0xFFFFFF66>✜ 目标：[!]移动反诱导</color>
+      - - tabColumnOrder
+        - - ICON
+          - TAG
+          - DISTANCE
+          - NAME
+          - TYPE
+          - VELOCITY
+          - RADIALVELOCITY
+          - TRANSVERSALVELOCITY
+          - ANGULARVELOCITY
+          - ALLIANCE
+          - CORPORATION
+          - FACTION
+          - MILITIA
+          - SIZE
+userSettings: []
