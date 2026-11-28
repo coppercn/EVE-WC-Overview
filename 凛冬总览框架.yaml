@@ -333,7 +333,7 @@ tabSetup:
       - - name
         - "ㅤ✈ㅤ"
       - - overview
-        - <color=0xFFFFCCFF>✈ 航行：空间站</color>
+        - <color=0xFFFFCCFF>✈ 航行</color>
       - - tabColumnOrder
         - - ICON
           - TAG
@@ -359,7 +359,7 @@ tabSetup:
       - - name
         - "✯ 作战"
       - - overview
-        - <color=0xFFFF6666>✯ --- 作战：基本（+敌对 +NPC）</color>
+        - <color=0xFFFF6666>✯ --- 作战：基本（+NPC）</color>
       - - tabColumnOrder
         - - ICON
           - TAG
@@ -411,7 +411,7 @@ tabSetup:
       - - name
         - "☭ 生产"
       - - overview
-        - <color=0xFF33FFFF>☭ 生产：打捞/残骸</color>
+        - <color=0xFF33FFFF>☭ 生产：挖矿</color>
       - - tabColumnOrder
         - - ICON
           - TAG

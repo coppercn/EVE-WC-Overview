@@ -115,21 +115,6 @@ overviewColumns:
   - TYPE
   - VELOCITY
 presets:
-  - - <color=0xFFFFFF66>✜ 目标：[L]战列舰</color>
-    - - - alwaysShownStates
-        - []
-      - - filteredStates
-        - - 11
-          - 12
-          - 14
-          - 15
-          - 16
-          - 21
-      - - groups
-        - - 27
-          - 381
-          - 898
-          - 900
   - - <color=0xFFFFFF66>✜ 目标：[M]侦察</color>
     - - - alwaysShownStates
         - []
@@ -143,7 +128,7 @@ presets:
       - - groups
         - - 833
           - 906
-  - - <color=0xFFFFFF66>✜ 目标：[M]巡洋舰</color>
+  - - <color=0xFFFFFF66>✜ 目标：[M]巡洋舰/工业舰</color>
     - - - alwaysShownStates
         - []
       - - filteredStates
@@ -155,12 +140,18 @@ presets:
           - 21
       - - groups
         - - 26
+          - 28
           - 358
+          - 380
+          - 463
+          - 543
           - 832
           - 833
           - 894
           - 906
           - 963
+          - 1202
+          - 1972
           - 5087
   - - <color=0xFFFFFF66>✜ 目标：[M]战列巡洋舰</color>
     - - - alwaysShownStates
@@ -189,7 +180,9 @@ presets:
           - 21
       - - groups
         - - 540
+          - 941
           - 963
+          - 4902
   - - <color=0xFFFFFF66>✜ 目标：[M]监视者级</color>
     - - - alwaysShownStates
         - []
@@ -202,7 +195,7 @@ presets:
           - 21
       - - groups
         - - 1972
-  - - <color=0xFFFFFF66>✜ 目标：[S/M]后勤</color>
+  - - <color=0xFFFFFF66>✜ 目标：[S/M]T2后勤</color>
     - - - alwaysShownStates
         - []
       - - filteredStates
@@ -227,11 +220,8 @@ presets:
           - 16
           - 21
       - - groups
-        - - 361
-          - 541
-          - 548
+        - - 541
           - 894
-          - 4088
   - - <color=0xFFFFFF66>✜ 目标：[S]护卫/驱逐</color>
     - - - alwaysShownStates
         - []
@@ -307,6 +297,27 @@ presets:
           - 21
       - - groups
         - - 547
+          - 5120
+  - - <color=0xFFFFFF66>✜ 目标：[XL]所有旗舰</color>
+    - - - alwaysShownStates
+        - []
+      - - filteredStates
+        - - 11
+          - 12
+          - 14
+          - 15
+          - 16
+          - 21
+      - - groups
+        - - 30
+          - 485
+          - 513
+          - 547
+          - 659
+          - 883
+          - 902
+          - 1538
+          - 4594
           - 5120
   - - <color=0xFFFFFF66>✜ 目标：[XL]无畏</color>
     - - - alwaysShownStates

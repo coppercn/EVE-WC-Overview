@@ -145,7 +145,6 @@ presets:
           - 26
           - 27
           - 28
-          - 29
           - 30
           - 31
           - 237
@@ -157,7 +156,6 @@ presets:
           - 420
           - 463
           - 485
-          - 492
           - 513
           - 540
           - 541
@@ -178,12 +176,9 @@ presets:
           - 906
           - 941
           - 963
-          - 1005
           - 1022
-          - 1149
           - 1201
           - 1202
-          - 1274
           - 1283
           - 1305
           - 1527
@@ -228,7 +223,6 @@ presets:
           - 26
           - 27
           - 28
-          - 29
           - 30
           - 31
           - 237
@@ -240,7 +234,6 @@ presets:
           - 420
           - 463
           - 485
-          - 492
           - 513
           - 540
           - 541
@@ -262,10 +255,8 @@ presets:
           - 941
           - 963
           - 1022
-          - 1149
           - 1201
           - 1202
-          - 1274
           - 1283
           - 1305
           - 1527
@@ -303,10 +294,9 @@ presets:
           - 53
           - 68
       - - groups
-        - - 492
-          - 833
+        - - 833
           - 906
-  - - <color=0xFF66CCFF>✪ 友军：[M]指挥/监视者级</color>
+  - - <color=0xFF66CCFF>✪ 友军：[M]指挥/T3C/监视者级</color>
     - - - alwaysShownStates
         - - 11
           - 12
@@ -332,11 +322,12 @@ presets:
           - 53
           - 68
       - - groups
-        - - 492
-          - 540
+        - - 540
+          - 941
+          - 963
           - 1972
           - 4902
-  - - <color=0xFF66CCFF>✪ 友军：[S/M]后勤</color>
+  - - <color=0xFF66CCFF>✪ 友军：[S/M]T2后勤</color>
     - - - alwaysShownStates
         - - 11
           - 12
@@ -362,8 +353,7 @@ presets:
           - 53
           - 68
       - - groups
-        - - 492
-          - 832
+        - - 832
           - 1527
           - 1538
   - - <color=0xFF66CCFF>✪ 友军：[S/M]轻拦/重拦</color>
@@ -392,8 +382,7 @@ presets:
           - 53
           - 68
       - - groups
-        - - 492
-          - 541
+        - - 541
           - 894
   - - <color=0xFF66CCFF>✪ 友军：[S]跳驱</color>
     - - - alwaysShownStates
@@ -421,8 +410,7 @@ presets:
           - 53
           - 68
       - - groups
-        - - 492
-          - 1534
+        - - 1534
   - - <color=0xFF66CCFF>✪ 友军：[XL]大航/泰坦</color>
     - - - alwaysShownStates
         - - 11
@@ -450,7 +438,6 @@ presets:
           - 68
       - - groups
         - - 30
-          - 492
           - 659
   - - <color=0xFF66CCFF>✪ 友军：[XL]小航/FAX</color>
     - - - alwaysShownStates
@@ -478,8 +465,7 @@ presets:
           - 53
           - 68
       - - groups
-        - - 492
-          - 547
+        - - 547
           - 1538
           - 5120
   - - <color=0xFF66CCFF>✪ 友军：[XL]所有旗舰</color>
@@ -510,13 +496,11 @@ presets:
       - - groups
         - - 30
           - 485
-          - 492
           - 513
           - 547
           - 659
           - 883
           - 902
-          - 941
           - 1538
           - 4594
           - 5120
@@ -547,7 +531,6 @@ presets:
           - 68
       - - groups
         - - 485
-          - 492
           - 4594
 shipLabelOrder:
   - ship type
